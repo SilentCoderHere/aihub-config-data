@@ -1,0 +1,151 @@
+{
+  "version": "1.1.0",
+  "service_domains": {
+    "chatgpt": [
+      "chatgpt.com",
+      "openai.com",
+      "fileserviceuploadsperm.blob.core.windows.net",
+      "oaiusercontent.com",
+      "cdn.auth0.com",
+      "auth.openai.com",
+      "oaistatic.com"
+    ],
+    "duckai": [
+      "duck.ai",
+      "duckduckgo.com"
+    ],
+    "venice": [
+      "venice.ai"
+    ],
+    "grok": [
+      "grok.com",
+      "imagine-public.x.ai",
+      "accounts.x.ai",
+      "auth.grokipedia.com"
+    ],
+    "lumo": [
+      "lumo.proton.me",
+      "account.proton.me"
+    ],
+    "deepseek": [
+      "deepseek.com"
+    ],
+    "gemini": [
+      "gemini.google.com",
+      "fonts.gstatic.com",
+      "www.gstatic.com"
+    ],
+    "claude": [
+      "claude.ai"
+    ],
+    "perplexity": [
+      "perplexity.ai"
+    ],
+    "qwen": [
+      "qwen.ai",
+      "alicdn.com",
+      "cdnjs.cloudflare.com",
+      "aliyuncs.com",
+      "tdum.alibaba.com",
+      "sg-wum.alibaba.com"
+    ],
+    "mistral": [
+      "mistral.ai",
+      "mistralcdn.net"
+    ],
+    "blackbox": [
+      "app.blackbox.ai",
+      "js.stripe.com",
+      "m.stripe.network"
+    ],
+    "copilot": [
+      "copilot.microsoft.com"
+    ],
+    "brave": [
+      "brave.com"
+    ],
+    "huggingface": [
+      "huggingface.co",
+      "token.awswaf.com"
+    ],
+    "metaai": [
+      "meta.ai",
+      "static.xx.fbcdn.net",
+      "video.fdel64-1.fna.fbcdn.net"
+    ],
+    "euria": [
+      "infomaniak.com"
+    ],
+    "z.ai": [
+      "chat.z.ai",
+      "z-cdn.chatglm.cn"
+    ],
+    "h2ogpte": [
+      "h2ogpte.genai.h2o.ai",
+      "ok10static.oktacdn.com",
+      "op3static.oktacdn.com",
+      "id.public.h2o.ai"
+    ],
+    "dola": [
+      "www.dola.com",
+      "ciciaicdn.com",
+      "ciciai.com",
+      "yhgfb-static.com"
+    ],
+    "khoj": [
+      "khoj.dev",
+      "khoj.auth0.com"
+    ],
+    "consensus": [
+      "consensus.app"
+    ]
+  },
+  "always_blocked_domains": {
+    "chatgpt": [
+      "ab.chatgpt.com"
+    ],
+    "duck": [
+      "improving.duckduckgo.com"
+    ],
+    "grok": [
+      "www.google-analytics.com"
+    ],
+    "gemini": [
+      "www.google-analytics.com",
+      "www.googletagmanager.com"
+    ],
+    "perplexity": [
+      "suggest.perplexity.ai"
+    ]
+  },
+  "common_auth_domains": [
+    "accounts.google.com",
+    "appleid.apple.com",
+    "www.apple.com",
+    "appleid.cdn-apple.com",
+    "login.live.com",
+    "login.microsoftonline.com",
+    "aadcdn.msauth.net",
+    "aadcdn.msftauth.net",
+    "github.githubassets.com",
+    "challenges.cloudflare.com"
+  ],
+  "tracking_params": [
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "utm_term",
+    "utm_content",
+    "fbclid",
+    "gclid",
+    "msclkid",
+    "dclid",
+    "zanpid",
+    "ref",
+    "source",
+    "campaign",
+    "medium",
+    "content",
+    "referrer"
+  ]
+}

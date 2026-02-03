@@ -1,0 +1,159 @@
+{
+  "version": "1.1.0",
+  "ai_services": [
+    [
+      "ChatGPT",
+      "https://chatgpt.com/",
+      "Multimodal",
+      "Versatile fast assistant",
+      "FF10A37F"
+    ],
+    [
+      "Duck AI",
+      "https://duck.ai/",
+      "Anonymous",
+      "Privacy-first conversations",
+      "FF8B7355"
+    ],
+    [
+      "Venice",
+      "https://venice.ai/chat",
+      "Creative",
+      "Multimedia creative assistant",
+      "FF9C27B0"
+    ],
+    [
+      "Grok",
+      "https://grok.com/",
+      "Reasoning",
+      "Humorous reasoning assistant",
+      "FFE91E63"
+    ],
+    [
+      "Lumo",
+      "https://lumo.proton.me/",
+      "Secure",
+      "Encrypted privacy assistant",
+      "FF2196F3"
+    ],
+    [
+      "Deepseek",
+      "https://chat.deepseek.com/",
+      "Coding",
+      "Code generation specialist",
+      "FF00ACC1"
+    ],
+    [
+      "Gemini",
+      "https://gemini.google.com/",
+      "Integrated",
+      "Google ecosystem assistant",
+      "FF4285F4"
+    ],
+    [
+      "Claude",
+      "https://claude.ai/chat",
+      "Analytical",
+      "Long-form content expert",
+      "FF673AB7"
+    ],
+    [
+      "Perplexity",
+      "https://www.perplexity.ai/",
+      "Research",
+      "Citation-based search engine",
+      "FF00AB97"
+    ],
+    [
+      "Qwen",
+      "https://chat.qwen.ai/",
+      "Multilingual",
+      "Supports many languages",
+      "FFFF6D00"
+    ],
+    [
+      "Mistral",
+      "https://chat.mistral.ai/",
+      "Efficient",
+      "Fast reasoning model",
+      "FF3F51B5"
+    ],
+    [
+      "Blackbox",
+      "https://app.blackbox.ai/",
+      "Coding",
+      "Code optimization assistant",
+      "FFFF5722"
+    ],
+    [
+      "Copilot",
+      "https://copilot.microsoft.com/",
+      "Productivity",
+      "Microsoft 365 integration",
+      "FF0078D4"
+    ],
+    [
+      "Brave",
+      "https://search.brave.com/ask",
+      "Search",
+      "Privacy-focused searching",
+      "FF198038"
+    ],
+    [
+      "HuggingFace",
+      "https://huggingface.co/chat",
+      "Open-Source",
+      "Open model experimentation",
+      "FFFFD600"
+    ],
+    [
+      "Meta AI",
+      "https://www.meta.ai/",
+      "Social",
+      "Social platform integration",
+      "FF0081FB"
+    ],
+    [
+      "Euria",
+      "https://euria.infomaniak.com/",
+      "Privacy",
+      "Swiss privacy assistant",
+      "FF0D47A1"
+    ],
+    [
+      "Z.ai",
+      "https://chat.z.ai/",
+      "Social",
+      "Social AI assistant",
+      "FF8E24AA"
+    ],
+    [
+      "H2O GPTe",
+      "https://h2ogpte.genai.h2o.ai/",
+      "Data-Science",
+      "Enterprise AI platform",
+      "FF00695C"
+    ],
+    [
+      "Dola",
+      "https://www.dola.com/chat",
+      "General",
+      "Conversation assistant",
+      "FF009688"
+    ],
+    [
+      "Khoj",
+      "https://app.khoj.dev/?v=app",
+      "Productivity",
+      "Personal AI assistant",
+      "FFFF9800"
+    ],
+    [
+      "Consensus",
+      "https://consensus.app/",
+      "Productivity",
+      "Productivity AI assistant",
+      "FFCDDC39"
+    ]
+  ]
+}
