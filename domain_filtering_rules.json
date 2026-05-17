@@ -1,5 +1,5 @@
 {
-  "version": "5.22.2",
+  "version": "5.23.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -417,6 +417,15 @@
     "gigachat": [
       "giga.chat",
       "id.sber.ru"
+    ],
+    "deepai": [
+      "deepai.org"
+    ],
+    "freestockai": [
+      "free.stockai.trade"
+    ],
+    "deepcogito": [
+      "chat.deepcogito.com"
     ]
   },
   "always_blocked_domains": {

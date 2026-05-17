@@ -1,5 +1,5 @@
 {
-  "version": "5.22.2",
+  "version": "5.23.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -623,6 +623,27 @@
       "Freemium",
       "Privacy friendly",
       "BC8A41"
+    ],
+    [
+      "Deep AI",
+      "https://deepai.org/chat",
+      "Freemium",
+      "Not for privacy",
+      "200545"
+    ],
+    [
+      "Free Stock AI",
+      "https://free.stockai.trade/",
+      "Free",
+      "Privacy friendly",
+      "F5F5F5"
+    ],
+    [
+      "DeepCogito",
+      "https://chat.deepcogito.com/",
+      "Free",
+      "Privacy friendly",
+      "F5F5F5"
     ]
   ]
 }
