@@ -1,5 +1,5 @@
 {
-  "version": "5.23.0",
+  "version": "5.23.1",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -82,6 +82,10 @@
     ],
     "metaai": [
       "meta.ai",
+      "meta.com",
+      "www.instagram.com",
+      "www.facebook.com",
+      "static.cdninstagram.com",
       "static.xx.fbcdn.net",
       "video.fdel64-1.fna.fbcdn.net"
     ],
