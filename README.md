@@ -22,7 +22,7 @@ Both files are versioned and automatically published to **GitHub Pages**.
 ## 📱 Apps Using This Configuration
 
 - [AI Hub Android](https://github.com/SilentCoderHere/aihub) (official by [@SilentCoderHere](https://github.com/SilentCoderHere))
-- [AI Hub Desktop](https://github.com/Daskashk/aihub-desktop) (community by [@Daskashk](https://github.com/Daskashk))
+- [AI Hub Linux](https://github.com/Daskashk/aihub-for-linux) (community by [@Daskashk](https://github.com/Daskashk))
 
 > **Is your app using this data?**  
 > Let me know via email at **[silentcoder@tutamail.com]** and I’ll add it to the list!
