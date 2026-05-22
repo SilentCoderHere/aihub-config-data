@@ -1,5 +1,5 @@
 {
-  "version": "5.23.1",
+  "version": "5.24.0",
   "service_domains": {
     "chatgpt": [
       "chatgpt.com",
@@ -434,6 +434,12 @@
     "base44": [
       "app.base44.com",
       "m.stripe.com"
+    ],
+    "janitorai": [
+      "assets.janitorai.com",
+      "ella.janitorai.com",
+      "b-cdn.net",
+      "fonts.googleapis.com"
     ]
   },
   "always_blocked_domains": {
