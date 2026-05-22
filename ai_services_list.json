@@ -1,5 +1,5 @@
 {
-  "version": "5.23.1",
+  "version": "5.24.0",
   "ai_services": [
     [
       "ChatGPT",
@@ -644,6 +644,20 @@
       "Free",
       "Privacy friendly",
       "F5F5F5"
+    ],
+    [
+      "Base44",
+      "https://app.base44.com/",
+      "Freemium",
+      "Not for privacy",
+      "FF5500"
+    ],
+    [
+      "Janitor AI",
+      "https://janitorai.com/chats",
+      "Freemium",
+      "Not for privacy",
+      "F786F4"
     ]
   ]
 }
