@@ -430,6 +430,10 @@
     ],
     "deepcogito": [
       "chat.deepcogito.com"
+    ],
+    "base44": [
+      "app.base44.com",
+      "m.stripe.com"
     ]
   },
   "always_blocked_domains": {
