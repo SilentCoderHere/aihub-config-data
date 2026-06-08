@@ -1,72 +1,73 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI Hub</title>
-    <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
-  <body>
-    <div class="container">
-      <header class="header">
-        <div class="logo">
-          <span class="logo-icon">🤖</span>
-          <span class="gradient-text">AI Hub</span>
-        </div>
-        <p class="subtitle">A curated list of AI services</p>
-        <div class="search-bar">
-          <span class="search-icon">🔍</span>
-          <input
-            type="text"
-            id="searchInput"
-            placeholder="Search by name..."
-            autocomplete="off"
-          />
-        </div>
-      </header>
 
-      <div class="filter-section">
-        <div class="filter-group">
-          <span class="filter-label">💰 Price:</span>
-          <select id="pricingSelect" class="filter-select">
-            <option value="all">All</option>
-            <option value="Free">Free</option>
-            <option value="Freemium">Freemium</option>
-            <option value="Paid">Paid</option>
-          </select>
-        </div>
-        <div class="filter-group">
-          <span class="filter-label">🔒 Privacy:</span>
-          <select id="privacySelect" class="filter-select">
-            <option value="all">All</option>
-            <option value="Privacy focused">Focused</option>
-            <option value="Privacy friendly">Friendly</option>
-            <option value="Not for privacy">Not private</option>
-          </select>
-        </div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Hub – Discover AI Services</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="logo">
+        <span class="logo-icon">🤖</span>
+        <span class="gradient-text">AI Hub</span>
       </div>
+      <p class="subtitle">A curated list of AI services</p>
+      <div class="search-bar">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="Search by name..." autocomplete="off" />
+      </div>
+    </header>
 
-      <div class="showing-count" id="countLine"></div>
-
-      <div class="services-grid" id="servicesGrid"></div>
-      <div id="emptyMessage" class="empty-message" style="display: none">
-        No services match your search.
+    <div class="filter-section">
+      <div class="filter-group">
+        <span class="filter-label">📂 Category:</span>
+        <select id="categorySelect" class="filter-select">
+          <option value="all">All</option>
+          <!-- Categories will be populated from JSON dynamically -->
+        </select>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">💰 Price:</span>
+        <select id="pricingSelect" class="filter-select">
+          <option value="all">All</option>
+          <option value="free">Free</option>
+          <option value="freemium">Freemium</option>
+          <option value="paid">Paid</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">🔒 Privacy:</span>
+        <select id="privacySelect" class="filter-select">
+          <option value="all">All</option>
+          <option value="friendly">Friendly</option>
+          <option value="neutral">Neutral</option>
+          <option value="avoid">Avoid</option>
+        </select>
       </div>
     </div>
 
-    <footer class="footer">
-      <p>
-        Data from
-        <a
-          href="https://github.com/SilentCoderHere/aihub-config-data"
-          target="_blank"
-          >AI Hub Config Data</a
-        >
-        · Made with ❤️
-      </p>
-      <p class="version" id="versionDisplay"></p>
-    </footer>
+    <div class="showing-count" id="countLine"></div>
 
-    <script src="assets/js/script.js" defer></script>
-  </body>
+    <div class="services-grid" id="servicesGrid"></div>
+    <div id="emptyMessage" class="empty-message" style="display: none">
+      No services match your filters.
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>
+      Data from
+      <a href="https://github.com/SilentCoderHere/aihub-config-data" target="_blank">AI Hub Config Data</a>
+      · Made with ❤️
+    </p>
+    <p class="version" id="versionDisplay"></p>
+  </footer>
+
+  <script src="assets/js/script.js" defer></script>
+</body>
+
 </html>

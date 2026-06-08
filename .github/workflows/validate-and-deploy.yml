@@ -2,16 +2,10 @@
 # AI Hub Config Data – Validation & Deployment
 # -------------------------------------------------------------------------
 # This workflow performs two critical tasks:
-# 1. Validates all JSON files (syntax and version‑bump policy) on every
+# 1. Validates `ais.json` on every
 #    push to main and every pull request targeting main.
 # 2. Deploys the repository content to GitHub Pages if the push is to main
 #    and all checks pass.
-#
-# Version‑bump policy:
-#   - If `ai_services_list.json` or `domain_filtering_rules.json` is modified,
-#     its `version` field must be incremented (compared to the previous state).
-#   - The two files can have different versions; there is no cross‑file comparison.
-#   - This prevents stale version numbers after data changes.
 # -------------------------------------------------------------------------
 
 name: Validate & Deploy
@@ -32,6 +26,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  FILES_TO_CHECK: "ais.json"
+
 jobs:
   # =========================================================================
   # Validation job – runs on every push to main and every pull request
@@ -47,60 +44,10 @@ jobs:
       # ----- JSON syntax check ------------------------------------------------
       - name: Validate JSON syntax
         run: |
-          echo "::group::JSON syntax check"
-          find . -type f -name '*.json' -print0 | while IFS= read -r -d '' file; do
-            echo "  Checking $file"
-            python3 -m json.tool "$file" > /dev/null
+          for file in ${{ env.FILES_TO_CHECK }}; do
+            echo "Checking $file"
+            python3 -m json.tool "$file"
           done
-          echo "::endgroup::"
-          echo "✅ All JSON files are syntactically correct."
-
-      # ----- Version‑bump check (only for data files that changed) ------------
-      - name: Check version bumps
-        run: |
-          echo "::group::Version bump verification"
-
-          # Determine the commit to compare against, depending on the event
-          if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
-            BASE_REF="origin/${{ github.base_ref }}"
-            echo "🔀 Pull request: comparing with $BASE_REF"
-          else
-            # For push events (including merges), compare with the commit
-            # just before the push (i.e., parent of the latest commit).
-            # This works for any push (single or multiple commits).
-            BASE_REF="HEAD^"
-            echo "📤 Push event: comparing with previous commit ($BASE_REF)"
-          fi
-
-          # Data files that must have their version updated when modified
-          DATA_FILES="ai_services_list.json domain_filtering_rules.json"
-
-          # Files changed relative to BASE_REF
-          changed=$(git diff --name-only "$BASE_REF"...HEAD)
-
-          bump_errors=0
-          for file in $DATA_FILES; do
-            if echo "$changed" | grep -qx "$file"; then
-              base_version=$(git show "$BASE_REF:$file" | python3 -c "import sys, json; print(json.load(sys.stdin)['version'])")
-              head_version=$(python3 -c "import json; print(json.load(open('$file'))['version'])")
-
-              if [ "$base_version" = "$head_version" ]; then
-                echo "::error file=$file::Version not bumped. File was modified but version remains '$head_version'. Please increment the version."
-                bump_errors=$((bump_errors + 1))
-              else
-                echo "✅ $file: version bumped from $base_version to $head_version"
-              fi
-            fi
-          done
-
-          if [ $bump_errors -gt 0 ]; then
-            echo "::endgroup::"
-            echo "::error::$bump_errors file(s) require a version bump."
-            exit 1
-          fi
-
-          echo "::endgroup::"
-          echo "✅ Version bump check passed."
 
   # =========================================================================
   # Deployment job – only on pushes to main after successful validation

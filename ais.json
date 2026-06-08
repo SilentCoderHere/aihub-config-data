@@ -1,0 +1,860 @@
+{
+  "chatbot": [
+    {
+      "name": "ChatGPT",
+      "website": "https://chatgpt.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["writing", "coding", "research"]
+    },
+    {
+      "name": "Duck AI",
+      "website": "https://duck.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "image gen", "pdf chat"]
+    },
+    {
+      "name": "Venice",
+      "website": "https://venice.ai/chat",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["uncensored chat", "creative writing", "privacy"]
+    },
+    {
+      "name": "Grok",
+      "website": "https://grok.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["coding", "research", "brainstorming"]
+    },
+    {
+      "name": "Lumo",
+      "website": "https://lumo.proton.me/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["private chat", "secure AI", "assistance"]
+    },
+    {
+      "name": "Deepseek",
+      "website": "https://chat.deepseek.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["coding", "reasoning", "technical"]
+    },
+    {
+      "name": "Gemini",
+      "website": "https://gemini.google.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["multimodal", "writing", "research"]
+    },
+    {
+      "name": "Google Ai Studio",
+      "website": "https://aistudio.google.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["prompt engineering", "app building", "experimentation"]
+    },
+    {
+      "name": "Claude",
+      "website": "https://claude.ai/chat",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["writing", "coding", "analysis"]
+    },
+    {
+      "name": "Perplexity",
+      "website": "https://www.perplexity.ai/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["research", "fact-checking", "summarization"]
+    },
+    {
+      "name": "Mistral",
+      "website": "https://chat.mistral.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["coding", "research", "writing"]
+    },
+    {
+      "name": "Blackbox",
+      "website": "https://app.blackbox.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["coding", "debugging", "development"]
+    },
+    {
+      "name": "Copilot",
+      "website": "https://copilot.microsoft.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["productivity", "research", "creative"]
+    },
+    {
+      "name": "Brave",
+      "website": "https://search.brave.com/ask",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private search", "research", "chat"]
+    },
+    {
+      "name": "HuggingChat",
+      "website": "https://huggingface.co/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["open models", "experimentation", "research"]
+    },
+    {
+      "name": "Meta AI",
+      "website": "https://www.meta.ai/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["chat", "image gen", "creative"]
+    },
+    {
+      "name": "Euria",
+      "website": "https://euria.infomaniak.com/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "secure AI", "assistance"]
+    },
+    {
+      "name": "Z AI",
+      "website": "https://chat.z.ai/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["chat", "research", "writing"]
+    },
+    {
+      "name": "H2O GPTe",
+      "website": "https://h2ogpte.genai.h2o.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["data analysis", "document processing", "business"]
+    },
+    {
+      "name": "Dola",
+      "website": "https://www.dola.com/chat",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["productivity", "research", "daily assistance"]
+    },
+    {
+      "name": "Consensus",
+      "website": "https://consensus.app/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["academic search", "evidence synthesis", "research"]
+    },
+    {
+      "name": "PLLuM",
+      "website": "https://pllum.clarin-pl.eu/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["Polish language", "chat", "research"]
+    },
+    {
+      "name": "GPai",
+      "website": "https://gpai.app/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["chat", "writing", "research"]
+    },
+    {
+      "name": "Public AI",
+      "website": "https://publicai.co/chat",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["open access", "research", "chat"]
+    },
+    {
+      "name": "Arena",
+      "website": "https://arena.ai",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["model comparison", "benchmarking", "chat"]
+    },
+    {
+      "name": "OpenRouter Chat",
+      "website": "https://openrouter.ai/chat",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["multi-model", "routing", "developer"]
+    },
+    {
+      "name": "MiroMind AI",
+      "website": "https://dr.miromind.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["chat", "writing", "productivity"]
+    },
+    {
+      "name": "YouAI",
+      "website": "https://you.com/?tbm=youchat&fromSearchBar=true&chatMode=default",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["search", "research", "personalized"]
+    },
+    {
+      "name": "Together AI",
+      "website": "https://chat.together.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["open models", "experimentation", "research"]
+    },
+    {
+      "name": "SecAI",
+      "website": "https://i.secai.ai/chat",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["cybersecurity", "technical", "chat"]
+    },
+    {
+      "name": "Mammouth AI",
+      "website": "https://mammouth.ai/",
+      "pricing": "paid",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["multi-model", "image gen", "video gen"]
+    },
+    {
+      "name": "TurboSeek",
+      "website": "https://www.turboseek.io/",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["fast answers", "research", "search"]
+    },
+    {
+      "name": "Kimi",
+      "website": "https://www.kimi.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["coding", "long context", "chat"]
+    },
+    {
+      "name": "Indus",
+      "website": "https://indus.sarvam.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["Indian languages", "regional AI", "research"]
+    },
+    {
+      "name": "Poe",
+      "website": "https://poe.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["multi-model", "chat", "creative"]
+    },
+    {
+      "name": "Paperguide AI",
+      "website": "https://paperguide.ai/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["academic research", "literature review", "citation"]
+    },
+    {
+      "name": "Elicit",
+      "website": "https://elicit.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["scientific research", "systematic reviews", "evidence"]
+    },
+    {
+      "name": "SciSpace AI",
+      "website": "https://scispace.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["pdf chat", "literature review", "academic"]
+    },
+    {
+      "name": "Genspark AI",
+      "website": "https://www.genspark.ai",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["ai search", "summarization", "research"]
+    },
+    {
+      "name": "10b AI",
+      "website": "https://10b.ai/",
+      "pricing": "paid",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["productivity", "creative", "enterprise"]
+    },
+    {
+      "name": "Manus",
+      "website": "https://manus.im/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["chat", "writing", "assistance"]
+    },
+    {
+      "name": "Character AI",
+      "website": "https://character.ai/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["roleplay", "storytelling", "entertainment"]
+    },
+    {
+      "name": "Thaura",
+      "website": "https://thaura.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "secure AI", "creative"]
+    },
+    {
+      "name": "Doubao",
+      "website": "https://www.doubao.com/chat/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "multimodal", "daily use"]
+    },
+    {
+      "name": "Google NotebookLM",
+      "website": "https://notebooklm.google.com",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["note summarization", "podcast gen", "document analysis"]
+    },
+    {
+      "name": "Usul",
+      "website": "https://usul.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["chat", "research", "writing"]
+    },
+    {
+      "name": "Ernie",
+      "website": "https://ernie.baidu.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "search", "multimodal"]
+    },
+    {
+      "name": "Yupp AI",
+      "website": "https://yupp.ai/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["chat", "creative writing", "entertainment"]
+    },
+    {
+      "name": "NilGPT",
+      "website": "https://nilgpt.xyz/app",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "uncensored", "creative"]
+    },
+    {
+      "name": "Nadanada Chat",
+      "website": "https://nadanada.me/chat",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["roleplay", "creative writing", "entertainment"]
+    },
+    {
+      "name": "Perchance",
+      "website": "https://perchance.org/ai-chat",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["story generation", "roleplay", "text adventures"]
+    },
+    {
+      "name": "Llama Tutor",
+      "website": "https://llamatutor.together.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["education", "tutoring", "learning"]
+    },
+    {
+      "name": "xPrivo",
+      "website": "https://www.xprivo.com/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private AI", "secure chat", "privacy"]
+    },
+    {
+      "name": "Allen AI",
+      "website": "https://playground.allenai.org/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["research", "experimentation", "science"]
+    },
+    {
+      "name": "SEA-LION",
+      "website": "https://playground.sea-lion.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["Southeast Asian", "regional AI", "research"]
+    },
+    {
+      "name": "MiMo Studio",
+      "website": "https://aistudio.xiaomimimo.com/#/c",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["multimodal", "creative", "Chinese"]
+    },
+    {
+      "name": "Confer",
+      "website": "https://confer.to/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["meetings", "summarization", "productivity"]
+    },
+    {
+      "name": "Google",
+      "website": "https://google.com/ai/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["search integration", "multimodal", "productivity"]
+    },
+    {
+      "name": "Mercury",
+      "website": "https://chat.inceptionlabs.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["chat", "research", "writing"]
+    },
+    {
+      "name": "Baidu Wenxin",
+      "website": "https://wenxin.baidu.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "search", "creative"]
+    },
+    {
+      "name": "Baidu Yiyan",
+      "website": "https://yiyan.baidu.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "multimodal", "assistance"]
+    },
+    {
+      "name": "MiniMax",
+      "website": "https://agent.minimaxi.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["agentic AI", "chat", "creative"]
+    },
+    {
+      "name": "Zhipu Qingyan",
+      "website": "https://chatglm.cn/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "coding", "writing"]
+    },
+    {
+      "name": "Xunfei Starfire",
+      "website": "https://xinghuo.xfyun.cn/chat",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["voice AI", "Chinese", "productivity"]
+    },
+    {
+      "name": "Tencent Yuanbao",
+      "website": "https://yuanbao.tencent.com/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Chinese", "multimodal", "entertainment"]
+    },
+    {
+      "name": "LongCat",
+      "website": "https://longcat.chat/",
+      "pricing": "free",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["long context", "document analysis", "research"]
+    },
+    {
+      "name": "Mike",
+      "website": "https://app.mikeoss.com/assistant",
+      "pricing": "paid",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["productivity", "task management", "personal assistant"]
+    },
+    {
+      "name": "Sci Bot",
+      "website": "https://sci-bot.ru/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["scientific research", "academic assistance", "science"]
+    },
+    {
+      "name": "Kai",
+      "website": "https://kai9000.com/app",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["chat", "creative writing", "roleplay"]
+    },
+    {
+      "name": "Okara",
+      "website": "https://okara.ai/chat/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "uncensored", "creative"]
+    },
+    {
+      "name": "Obscurify AI",
+      "website": "https://obscurify.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["privacy-focused", "secure AI", "research"]
+    },
+    {
+      "name": "Nano GPT",
+      "website": "https://nano-gpt.com/conversation/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["fast responses", "lightweight", "daily use"]
+    },
+    {
+      "name": "Kagi",
+      "website": "https://kagi.com/assistant",
+      "pricing": "paid",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["search", "privacy", "research"]
+    },
+    {
+      "name": "Maple AI",
+      "website": "https://trymaple.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["chat", "productivity", "writing"]
+    },
+    {
+      "name": "Hacker AI",
+      "website": "https://hackerai.co/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["coding", "hacking tools", "security"]
+    },
+    {
+      "name": "Ellydee",
+      "website": "https://ellydee.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["chat", "creative", "productivity"]
+    },
+    {
+      "name": "RuFlo",
+      "website": "https://flo.ruv.io/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["Russian", "chat", "research"]
+    },
+    {
+      "name": "Reddit",
+      "website": "https://www.reddit.com/answers",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["community answers", "research", "trends"]
+    },
+    {
+      "name": "Copilot 365",
+      "website": "https://m365.cloud.microsoft/chat",
+      "pricing": "paid",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["microsoft 365", "productivity", "business"]
+    },
+    {
+      "name": "Chat Jimmy",
+      "website": "https://chatjimmy.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["chat", "entertainment", "daily"]
+    },
+    {
+      "name": "StepFun",
+      "website": "https://www.stepfun.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["multimodal", "creative", "Chinese"]
+    },
+    {
+      "name": "Uncensored AI",
+      "website": "https://uncensored.com/ai",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["uncensored chat", "roleplay", "writing"]
+    },
+    {
+      "name": "Minara",
+      "website": "https://minara.ai/app/chat",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["chat", "research", "writing"]
+    },
+    {
+      "name": "Morphic",
+      "website": "https://chat.morphic.sh/",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["private chat", "research", "creative"]
+    },
+    {
+      "name": "Spicychat",
+      "website": "https://spicychat.ai/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["roleplay", "nsfw", "entertainment"]
+    },
+    {
+      "name": "PayPerQ",
+      "website": "https://ppq.ai/",
+      "pricing": "paid",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["pay-per-query", "research", "on-demand"]
+    },
+    {
+      "name": "Alice AI",
+      "website": "https://alice.yandex.ru/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Russian", "voice", "yandex"]
+    },
+    {
+      "name": "GigaChat",
+      "website": "https://giga.chat/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["Russian", "multimodal", "creative"]
+    },
+    {
+      "name": "Deep AI",
+      "website": "https://deepai.org/chat",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["image gen", "chat", "creative"]
+    },
+    {
+      "name": "Free Stock AI",
+      "website": "https://free.stockai.trade/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["stock analysis", "financial research", "market"]
+    },
+    {
+      "name": "DeepCogito",
+      "website": "https://chat.deepcogito.com/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["reasoning", "research", "technical"]
+    },
+    {
+      "name": "Base44",
+      "website": "https://app.base44.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["no-code", "app building", "productivity"]
+    },
+    {
+      "name": "Janitor AI",
+      "website": "https://janitorai.com/chats",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": false,
+      "best_for": ["roleplay", "nsfw", "storytelling"]
+    },
+    {
+      "name": "Deep Hat",
+      "website": "https://app.deephat.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["cybersecurity", "red teaming", "devsecops"]
+    },
+    {
+      "name": "Matrix Chats",
+      "website": "https://matrixchats.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["uncensored chat", "image gen", "writing"]
+    },
+    {
+      "name": "Aura Chat",
+      "website": "https://chataura.com.br/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["uncensored chat", "roleplay", "writing"]
+    },
+    {
+      "name": "Evaristo.ai",
+      "website": "http://evaristo.ai/",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["Portuguese", "creative writing", "research"]
+    },
+    {
+      "name": "Ecosia AI Chat",
+      "website": "https://www.ecosia.org/ai-chat",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["sustainable", "research", "advice"]
+    },
+    {
+      "name": "HackAIGC",
+      "website": "https://chat.hackaigc.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["nsfw", "creative writing", "image gen"]
+    },
+    {
+      "name": "Arcee AI Chat",
+      "website": "https://chat.arcee.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["reasoning", "coding", "writing"]
+    },
+    {
+      "name": "WormGPT",
+      "website": "https://www.wormgpt.ai/chat",
+      "pricing": "paid",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["uncensored chat", "hacking research", "coding"]
+    },
+    {
+      "name": "Meli AI",
+      "website": "https://app.meli.im/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["personal assistance", "task management", "reminders"]
+    }
+  ],
+  "music generator": [
+    {
+      "name": "Sonauto",
+      "website": "https://sonauto.ai/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["music creation", "song generation", "lyrics to music"]
+    }
+  ],
+  "voice generator": [
+    {
+      "name": "ElevenLabs",
+      "website": "https://elevenlabs.io/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["voiceovers", "audiobooks", "podcasts"]
+    }
+  ],
+  "writing helper": [
+    {
+      "name": "Litero AI",
+      "website": "https://litero.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["academic writing", "research papers", "essays"]
+    }
+  ],
+  "research assistant": [
+    {
+      "name": "Scira AI",
+      "website": "https://scira.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["research", "web search", "academic analysis"]
+    }
+  ]
+}
