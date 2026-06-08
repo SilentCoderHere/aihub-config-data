@@ -3,8 +3,6 @@
 [![License](https://img.shields.io/github/license/SilentCoderHere/aihub-config-data?style=for-the-badge&color=blue)](LICENSE)
 [![GitHub Pages](https://img.shields.io/badge/data-GitHub%20Pages-blue?style=for-the-badge)](https://silentcoderhere.github.io/aihub-config-data/)
 [![Last Commit](https://img.shields.io/github/last-commit/SilentCoderHere/aihub-config-data?style=for-the-badge&color=orange)](https://github.com/SilentCoderHere/aihub-config-data/commits/main)
-[![Categories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSilentCoderHere%2Faihub-config-data%2Fmain%2Fais.json&query=%24%5B%3F%28%40%29%5D.length&style=for-the-badge&label=categories&color=blueviolet)](https://github.com/SilentCoderHere/aihub-config-data)
-[![Total AI Services](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSilentCoderHere%2Faihub-config-data%2Fmain%2Fais.json&query=%24%5B%3F%28%40%29%5D.sum(%24.%5B%40%5D.length)&style=for-the-badge&label=Total%20AIs&color=brightgreen)](https://silentcoderhere.github.io/aihub-config-data/)
 [![Request New AI](https://img.shields.io/badge/Request%20New%20AI-blue?style=for-the-badge&labelColor=blue&logo=github)](https://github.com/SilentCoderHere/aihub/issues/new?template=request_new_ai.yml)
 
 # AI Services Database
@@ -23,7 +21,7 @@ This JSON database powers an AI aggregator app that helps normal users discover 
       "website": "https://...",
       "pricing": "free | freemium | paid",
       "privacy": "friendly | neutral | avoid",
-      "login_required": true | false,
+      "login_required": "true | false",
       "best_for": ["tag1", "tag2", "tag3"]
     }
   ]
