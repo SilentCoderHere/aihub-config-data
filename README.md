@@ -65,7 +65,7 @@ This project is released under the [MIT License](./LICENSE)
 
 ## 🙏 Thanks
 
-- `domains.json` is build from [StevenBlack/hosts](https://github.com/StevenBlack/hosts) licensed under [MIT](https://github.com/StevenBlack/hosts/license.txt).
+- `domains.txt` is build from [StevenBlack/hosts](https://github.com/StevenBlack/hosts) licensed under [MIT](https://github.com/StevenBlack/hosts/license.txt).
 - To everyone who contributes and keeps this list useful for all.
 
 `🚀 Happy building!`
