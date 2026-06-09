@@ -87,7 +87,7 @@ jobs:
           if [ ! -f domains.json ]; then
             mv domains_new.json domains.json
             git add domains.json
-            git commit -m "Initial domains from StevenBlack/hosts ($(date -u +'%Y-%m-%d')) [skip ci]"
+            git commit -m "add: initial domains [skip ci]"
             git push
             echo "🚀 Committed initial domains.json"
           else
@@ -97,7 +97,7 @@ jobs:
             else
               mv domains_new.json domains.json
               git add domains.json
-              git commit -m "Update domains from StevenBlack/hosts ($(date -u +'%Y-%m-%d')) [skip ci]"
+              git commit -m "update: domains [skip ci]"
               git push
               echo "🚀 Committed updated domains.json"
             fi
@@ -112,7 +112,7 @@ jobs:
           if [ ! -f domains.json ]; then
             mv domains_new.json domains.json
             git add domains.json
-            git commit -m "Initial domains from StevenBlack/hosts (manual run) [skip ci]"
+            git commit -m "add: initial domains [skip ci]"
             git push
             echo "🚀 Committed initial domains.json"
           else
@@ -122,7 +122,7 @@ jobs:
             else
               mv domains_new.json domains.json
               git add domains.json
-              git commit -m "Update domains from StevenBlack/hosts (manual run) [skip ci]"
+              git commit -m "update: domains [skip ci]"
               git push
               echo "🚀 Committed updated domains.json"
             fi
