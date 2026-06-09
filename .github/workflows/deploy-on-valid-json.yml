@@ -1,4 +1,4 @@
-name: Deploy on Valid JSON (all files)
+name: Deploy on Valid JSON
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Validate all JSON files
+      - name: Find and validate all JSON files
         id: validate
         run: |
           INVALID_FILES=""
@@ -36,12 +36,14 @@ jobs:
           done < <(find . -name "*.json" -type f | sort)
 
           if [ -n "$INVALID_FILES" ]; then
+            echo ""
             echo "=================================================="
-            echo "ERROR: Invalid JSON in these files:"
+            echo "ERROR: The following JSON files contain syntax errors:"
             printf "%b" "$INVALID_FILES"
             echo "=================================================="
             exit 1
           fi
+          echo ""
           echo "✅ All JSON files are valid."
 
       - name: Setup Pages
