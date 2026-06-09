@@ -47,7 +47,7 @@ jobs:
             rm domains_new.txt
           fi
         env:
-          COMMIT_MSG: ${{ github.event_name == 'workflow_dispatch' && 'manual update: domains' || 'update: domains' }}
+          COMMIT_MSG: "${{ github.event_name == 'workflow_dispatch' && 'manual update: domains' || 'update: domains' }}"
 
       - name: Clean up
         if: always()
