@@ -1,0 +1,57 @@
+name: Deploy on Valid JSON (all files)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  validate-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate all JSON files
+        id: validate
+        run: |
+          INVALID_FILES=""
+          while IFS= read -r file; do
+            echo -n "Checking $file ... "
+            if python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "✅"
+            else
+              echo "❌"
+              INVALID_FILES="${INVALID_FILES}${file}\n"
+            fi
+          done < <(find . -name "*.json" -type f | sort)
+
+          if [ -n "$INVALID_FILES" ]; then
+            echo "=================================================="
+            echo "ERROR: Invalid JSON in these files:"
+            printf "%b" "$INVALID_FILES"
+            echo "=================================================="
+            exit 1
+          fi
+          echo "✅ All JSON files are valid."
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
