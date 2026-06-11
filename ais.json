@@ -856,5 +856,15 @@
       "login_required": true,
       "best_for": ["research", "web search", "academic analysis"]
     }
+  ],
+  "translator": [
+    {
+      "name": "ChatGPT Translate",
+      "website": "https://chatgpt.com/translate",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["translation", "language learning", "professional communication"]
+    }
   ]
 }
