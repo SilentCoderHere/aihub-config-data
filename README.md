@@ -36,6 +36,7 @@ This JSON database powers an AI aggregator app that helps normal users discover 
 - `video generator`
 - `music generator`
 - `writing helper`
+- `translator`
 - `presentation maker`
 - `research assistant`
 
