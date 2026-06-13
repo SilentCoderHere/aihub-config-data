@@ -815,6 +815,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["personal assistance", "task management", "reminders"]
+    },
+    {
+      "name": "Bielik AI",
+      "website": "https://chat.bielik.ai/?lang=en",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["conversation", "research", "summarization"]
     }
   ],
   "music generator": [
@@ -872,7 +880,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["translation", "language learning", "professional communication"]
+      "best_for": [
+        "translation",
+        "language learning",
+        "professional communication"
+      ]
     }
   ]
 }
