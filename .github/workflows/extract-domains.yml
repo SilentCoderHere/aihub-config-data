@@ -28,6 +28,8 @@ jobs:
             grep -vE '^([0-9]{1,3}\.){3}[0-9]{1,3}$|^[a-fA-F0-9:]+$' | \
             sort -u > domains_new.txt
 
+          sed -i '/^[[:space:]]*$/d' domains_new.txt
+
           COUNT=$(wc -l < domains_new.txt)
           echo "✅ Extracted $COUNT unique blocked domains"
 
