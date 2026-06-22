@@ -861,6 +861,14 @@
       "privacy": "friendly",
       "login_required": true,
       "best_for": ["marketing automation", "content creation", "SEO"]
+    },
+    {
+      "name": "Command Code",
+      "website": "https://commandcode.ai",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["coding", "software development", "code refactoring"]
     }
   ],
   "research assistant": [
