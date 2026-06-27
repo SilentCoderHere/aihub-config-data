@@ -958,5 +958,15 @@
         "professional communication"
       ]
     }
+  ],
+  "presentation maker": [
+    {
+      "name": "Eraser",
+      "website": "https://www.eraser.io",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["technical diagrams", "system architecture", "documentation"]
+    }
   ]
 }
