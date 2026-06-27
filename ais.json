@@ -815,6 +815,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["conversation", "research", "summarization"]
+    },
+    {
+      "name": "Internxt AI",
+      "website": "https://ai.internxt.com/",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["research", "coding", "general questions"]
     }
   ],
   "music generator": [
