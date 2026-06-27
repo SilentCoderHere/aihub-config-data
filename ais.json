@@ -865,22 +865,6 @@
       "best_for": ["web apps", "presentations", "data analysis"]
     },
     {
-      "name": "Janitor AI",
-      "website": "https://janitorai.com",
-      "pricing": "freemium",
-      "privacy": "neutral",
-      "login_required": true,
-      "best_for": ["roleplaying", "storytelling", "character creation"]
-    },
-    {
-      "name": "Deep Hat",
-      "website": "https://app.deephat.ai",
-      "pricing": "freemium",
-      "privacy": "friendly",
-      "login_required": true,
-      "best_for": ["research", "cybersecurity", "red teaming"]
-    },
-    {
       "name": "Qwen Studio",
       "website": "https://qwen.ai/",
       "pricing": "freemium",
