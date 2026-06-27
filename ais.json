@@ -879,6 +879,14 @@
       "privacy": "friendly",
       "login_required": true,
       "best_for": ["research", "cybersecurity", "red teaming"]
+    },
+    {
+      "name": "Qwen Studio",
+      "website": "https://qwen.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["chatbot", "research", "image generation"]
     }
   ],
   "music generator": [
