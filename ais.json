@@ -855,6 +855,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["red teaming", "research", "uncensored chat"]
+    },
+    {
+      "name": "Raccoon AI",
+      "website": "https://raccoonai.tech",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["web apps", "presentations", "data analysis"]
     }
   ],
   "music generator": [
