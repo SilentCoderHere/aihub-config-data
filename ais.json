@@ -839,6 +839,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["general questions", "productivity", "image generation"]
+    },
+    {
+      "name": "AiAiAi",
+      "website": "https://app.aiaiai.chat",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["general questions", "model comparison", "productivity"]
     }
   ],
   "music generator": [
