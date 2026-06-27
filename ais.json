@@ -1,14 +1,6 @@
 {
   "chatbot": [
     {
-      "name": "ChatGPT",
-      "website": "https://chatgpt.com/",
-      "pricing": "freemium",
-      "privacy": "avoid",
-      "login_required": true,
-      "best_for": ["writing", "coding", "research"]
-    },
-    {
       "name": "Duck AI",
       "website": "https://duck.ai/",
       "pricing": "freemium",
@@ -47,6 +39,14 @@
       "privacy": "avoid",
       "login_required": true,
       "best_for": ["coding", "reasoning", "technical"]
+    },
+    {
+      "name": "ChatGPT",
+      "website": "https://chatgpt.com/",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["writing", "coding", "research"]
     },
     {
       "name": "Gemini",
