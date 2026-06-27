@@ -847,6 +847,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["general questions", "model comparison", "productivity"]
+    },
+    {
+      "name": "Shannon AI",
+      "website": "https://shannon-ai.com/chat",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["red teaming", "research", "uncensored chat"]
     }
   ],
   "music generator": [
