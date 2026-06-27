@@ -871,6 +871,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["roleplaying", "storytelling", "character creation"]
+    },
+    {
+      "name": "Deep Hat",
+      "website": "https://app.deephat.ai",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["research", "cybersecurity", "red teaming"]
     }
   ],
   "music generator": [
