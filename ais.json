@@ -837,7 +837,7 @@
       "website": "https://woozlit.com",
       "pricing": "free",
       "privacy": "neutral",
-      "login_required": false,
+      "login_required": true,
       "best_for": ["general questions", "productivity", "image generation"]
     },
     {
