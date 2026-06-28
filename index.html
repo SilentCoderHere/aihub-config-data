@@ -1,73 +1,101 @@
 <!doctype html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Hub - Discover AI Services</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Hub – Discover AI Services</title>
-  <link rel="stylesheet" href="assets/css/style.css" />
-</head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="logo">
+          <span class="logo-icon">🤖</span>
+          <span class="gradient-text">AI Hub</span>
+        </div>
+        <p class="subtitle">A curated list of AI services</p>
 
-<body>
-  <div class="container">
-    <header class="header">
-      <div class="logo">
-        <span class="logo-icon">🤖</span>
-        <span class="gradient-text">AI Hub</span>
-      </div>
-      <p class="subtitle">A curated list of AI services</p>
-      <div class="search-bar">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" placeholder="Search by name..." autocomplete="off" />
-      </div>
-    </header>
+        <div class="search-filter-row">
+          <div class="search-bar">
+            <span class="search-icon">🔍</span>
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="Search by name…"
+              autocomplete="off"
+            />
+          </div>
+          <div class="filter-btn-wrap">
+            <button
+              class="filter-btn"
+              id="filterToggle"
+              aria-label="Open filters"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path d="M4 4h16v2L14 12v6l-4 2v-8L4 6V4z" />
+              </svg>
+              <span class="filter-badge hidden" id="filterBadge">0</span>
+            </button>
+          </div>
+        </div>
+      </header>
 
-    <div class="filter-section">
-      <div class="filter-group">
-        <span class="filter-label">📂 Category:</span>
-        <select id="categorySelect" class="filter-select">
-          <option value="all">All</option>
-          <!-- Categories will be populated from JSON dynamically -->
-        </select>
-      </div>
-      <div class="filter-group">
-        <span class="filter-label">💰 Price:</span>
-        <select id="pricingSelect" class="filter-select">
-          <option value="all">All</option>
-          <option value="free">Free</option>
-          <option value="freemium">Freemium</option>
-          <option value="paid">Paid</option>
-        </select>
-      </div>
-      <div class="filter-group">
-        <span class="filter-label">🔒 Privacy:</span>
-        <select id="privacySelect" class="filter-select">
-          <option value="all">All</option>
-          <option value="friendly">Friendly</option>
-          <option value="neutral">Neutral</option>
-          <option value="avoid">Avoid</option>
-        </select>
+      <div class="showing-count" id="countLine"></div>
+
+      <div class="services-grid" id="servicesGrid"></div>
+      <div id="emptyMessage" class="empty-message" style="display: none">
+        No services match your filters.
       </div>
     </div>
 
-    <div class="showing-count" id="countLine"></div>
-
-    <div class="services-grid" id="servicesGrid"></div>
-    <div id="emptyMessage" class="empty-message" style="display: none">
-      No services match your filters.
+    <div class="modal-overlay" id="filterModal">
+      <div class="modal">
+        <div class="modal-header">
+          <h3><span>⚙️</span> Filters</h3>
+          <button
+            class="modal-close"
+            id="modalClose"
+            aria-label="Close filters"
+          >
+            ✕
+          </button>
+        </div>
+        <div class="modal-body" id="modalBody">
+          <!-- Filter options will be dynamically generated here -->
+        </div>
+        <div class="modal-footer">
+          <div class="left-actions">
+            <button class="btn btn-danger" id="clearAllBtn">Clear All</button>
+          </div>
+          <div class="right-actions">
+            <button class="btn btn-primary" id="applyFiltersBtn">Apply</button>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
 
-  <footer class="footer">
-    <p>
-      Data from
-      <a href="https://github.com/SilentCoderHere/aihub-config-data" target="_blank">AI Hub Config Data</a>
-      · Made with ❤️
-    </p>
-    <p class="version" id="versionDisplay"></p>
-  </footer>
+    <footer class="footer">
+      <p>
+        Data from
+        <a
+          href="https://github.com/SilentCoderHere/aihub-config-data"
+          target="_blank"
+          >AI Hub Config Data</a
+        >
+        · Made with ❤️
+      </p>
+      <p class="version" id="versionDisplay"></p>
+    </footer>
 
-  <script src="assets/js/script.js" defer></script>
-</body>
-
+    <script src="assets/js/script.js"></script>
+  </body>
 </html>
