@@ -971,6 +971,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["website prototyping", "interactive games", "web simulations"]
+    },
+    {
+      "name": "Gamma",
+      "website": "https://gamma.app",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["presentation maker", "website builder", "document creation"]
     }
   ],
   "image generator": [
