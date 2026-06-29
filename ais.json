@@ -935,6 +935,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["research", "summarization", "study aids"]
+    },
+    {
+      "name": "DeepWiki",
+      "website": "https://deepwiki.com",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["codebase understanding", "research", "documentation"]
     }
   ],
   "translator": [
