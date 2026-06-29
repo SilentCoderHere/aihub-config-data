@@ -944,11 +944,7 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": [
-        "translation",
-        "language learning",
-        "professional communication"
-      ]
+      "best_for": ["translation", "language learning", "professional communication"]
     }
   ],
   "presentation maker": [
@@ -967,6 +963,16 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["website prototyping", "interactive games", "web simulations"]
+    }
+  ],
+  "image generator": [
+    {
+      "name": "AI Face Swap",
+      "website": "https://aifaceswap.io/",
+      "pricing": "free",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["image generation", "photo editing", "fun memes"]
     }
   ]
 }
