@@ -974,5 +974,15 @@
       "login_required": false,
       "best_for": ["image generation", "photo editing", "fun memes"]
     }
+  ],
+  "many in one": [
+    {
+      "name": "Musely.ai",
+      "website": "https://musely.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["writing", "image generation", "music generation"]
+    }
   ]
 }
