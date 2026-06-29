@@ -959,6 +959,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["technical diagrams", "system architecture", "documentation"]
+    },
+    {
+      "name": "WebSim AI",
+      "website": "https://websim.ai",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["website prototyping", "interactive games", "web simulations"]
     }
   ]
 }
