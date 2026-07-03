@@ -879,6 +879,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["catholic research", "theological questions", "faith education"]
+    },
+    {
+      "name": "Deepshi",
+      "website": "https://deepshi.ai/chat",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["conversation", "creative thinking", "image generation"]
     }
   ],
   "music generator": [
