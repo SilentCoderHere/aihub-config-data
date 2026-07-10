@@ -895,6 +895,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["multimodal generation", "video creation", "image editing"]
+    },
+    {
+      "name": "Unlimited AI",
+      "website": "https://unlimitedai.org/chat/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["general chat", "writing", "coding"]
     }
   ],
   "music generator": [
