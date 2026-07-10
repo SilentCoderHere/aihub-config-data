@@ -911,6 +911,14 @@
       "privacy": "friendly",
       "login_required": true,
       "best_for": ["conversation", "roleplay", "creative writing"]
+    },
+    {
+      "name": "EcoGPT",
+      "website": "https://ecogpt.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["conversation", "writing", "research", "image generation"]
     }
   ],
   "music generator": [
