@@ -903,6 +903,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["general chat", "writing", "coding"]
+    },
+    {
+      "name": "Saucepan AI",
+      "website": "https://saucepan.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["conversation", "roleplay", "creative writing"]
     }
   ],
   "music generator": [
