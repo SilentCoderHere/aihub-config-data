@@ -887,6 +887,14 @@
       "privacy": "friendly",
       "login_required": false,
       "best_for": ["conversation", "creative thinking", "image generation"]
+    },
+    {
+      "name": "Atlas Cloud",
+      "website": "https://www.atlascloud.ai/",
+      "pricing": "paid",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["multimodal generation", "video creation", "image editing"]
     }
   ],
   "music generator": [
