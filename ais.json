@@ -1001,6 +1001,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["translation", "language learning", "professional communication"]
+    },
+    {
+      "name": "DeepL Translator",
+      "website": "https://www.deepl.com/en/translator",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["translation", "document translation", "professional writing"]
     }
   ],
   "presentation maker": [
