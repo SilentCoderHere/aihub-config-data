@@ -951,6 +951,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["coding", "debugging", "research"]
+    },
+    {
+      "name": "DeepSeek (Deutsch)",
+      "website": "https://deepseek.de",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["research", "writing", "coding"]
     }
   ],
   "music generator": [
