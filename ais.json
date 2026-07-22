@@ -1105,6 +1105,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["troubleshooting", "research", "documentation"]
+    },
+    {
+      "name": "MathGPT Pro",
+      "website": "https://www.mathgptpro.com/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["math problem solving", "homework help", "tutoring"]
     }
   ],
   "translator": [
