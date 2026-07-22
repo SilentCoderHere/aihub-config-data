@@ -1153,6 +1153,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["writing", "image generation", "music generation"]
+    },
+    {
+      "name": "Newly",
+      "website": "https://newly.app",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["app development", "prototyping", "mobile app creation"]
     }
   ]
 }
