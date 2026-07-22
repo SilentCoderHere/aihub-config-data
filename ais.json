@@ -1137,6 +1137,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["math problem solving", "homework help", "tutoring"]
+    },
+    {
+      "name": "Blackbox CLI",
+      "website": "https://www.blackbox.ai/cli",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["coding", "debugging", "research"]
     }
   ],
   "translator": [
