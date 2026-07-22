@@ -943,6 +943,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["research", "document analysis", "summarization"]
+    },
+    {
+      "name": "MiniMax Code",
+      "website": "https://code.minimax.io",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["coding", "debugging", "research"]
     }
   ],
   "music generator": [
