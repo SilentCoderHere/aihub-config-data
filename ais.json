@@ -1071,6 +1071,14 @@
       "privacy": "friendly",
       "login_required": true,
       "best_for": ["coding", "software development", "code refactoring"]
+    },
+    {
+      "name": "Prompt Optimizer",
+      "website": "https://prompt.always200.com/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["prompt engineering", "writing", "research"]
     }
   ],
   "research assistant": [
