@@ -1021,6 +1021,16 @@
       "best_for": ["voiceovers", "audiobooks", "podcasts"]
     }
   ],
+  "video_generator": [
+    {
+      "name": "2short AI",
+      "website": "https://app.2short.ai",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["video editing", "content repurposing", "social media marketing"]
+    }
+  ],
   "writing helper": [
     {
       "name": "Litero AI",
