@@ -1031,6 +1031,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["cybersecurity", "coding", "research"]
+    },
+    {
+      "name": "Nastia",
+      "website": "https://www.nastia.ai/",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": false,
+      "best_for": ["conversation", "roleplay", "image generation"]
     }
   ],
   "music generator": [
