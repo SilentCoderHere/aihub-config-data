@@ -1049,6 +1049,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["music creation", "songwriting", "audio production"]
+    },
+    {
+      "name": "Wondera",
+      "website": "https://www.wondera.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["music creation", "remixing", "voice cloning"]
     }
   ],
   "voice generator": [
