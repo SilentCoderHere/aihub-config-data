@@ -1193,6 +1193,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["app development", "prototyping", "mobile app creation"]
+    },
+    {
+      "name": "Google Labs",
+      "website": "https://labs.google",
+      "pricing": "freemium",
+      "privacy": "avoid",
+      "login_required": true,
+      "best_for": ["experimentation", "research", "creative projects"]
     }
   ]
 }
