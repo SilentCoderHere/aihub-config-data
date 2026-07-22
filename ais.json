@@ -991,6 +991,14 @@
       "privacy": "friendly",
       "login_required": false,
       "best_for": ["chat", "coding", "writing"]
+    },
+    {
+      "name": "OpenCode",
+      "website": "https://opencode.ai",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["coding", "debugging", "research"]
     }
   ],
   "music generator": [
