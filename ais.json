@@ -1023,6 +1023,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["conversation", "research", "writing"]
+    },
+    {
+      "name": "DarkGPT",
+      "website": "https://darkgpt.chat/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["cybersecurity", "coding", "research"]
     }
   ],
   "music generator": [
