@@ -1159,6 +1159,14 @@
       "privacy": "friendly",
       "login_required": false,
       "best_for": ["image generation", "photo editing", "fun memes"]
+    },
+    {
+      "name": "Nano Banana 2",
+      "website": "https://nano-banana2.com",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["image generation", "advertising", "storyboarding"]
     }
   ],
   "many in one": [
