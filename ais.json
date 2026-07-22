@@ -969,6 +969,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["music creation", "song generation", "lyrics to music"]
+    },
+    {
+      "name": "Suno",
+      "website": "https://www.suno.com",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["music creation", "songwriting", "audio production"]
     }
   ],
   "voice generator": [
