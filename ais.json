@@ -1233,6 +1233,14 @@
       "privacy": "avoid",
       "login_required": true,
       "best_for": ["experimentation", "research", "creative projects"]
+    },
+    {
+      "name": "Freebuff",
+      "website": "https://freebuff.com/",
+      "pricing": "free",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["coding", "debugging", "app development"]
     }
   ]
 }
