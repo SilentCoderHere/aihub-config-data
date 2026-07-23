@@ -2,7 +2,7 @@
   "chatbot": [
     {
       "name": "Duck AI",
-      "website": "https://duck.ai/",
+      "website": "https://duck.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Grok",
-      "website": "https://grok.com/",
+      "website": "https://grok.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -26,7 +26,7 @@
     },
     {
       "name": "Lumo",
-      "website": "https://lumo.proton.me/",
+      "website": "https://lumo.proton.me",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Deepseek",
-      "website": "https://chat.deepseek.com/",
+      "website": "https://chat.deepseek.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -42,7 +42,7 @@
     },
     {
       "name": "ChatGPT",
-      "website": "https://chatgpt.com/",
+      "website": "https://chatgpt.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Gemini",
-      "website": "https://gemini.google.com/",
+      "website": "https://gemini.google.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Google Ai Studio",
-      "website": "https://aistudio.google.com/",
+      "website": "https://aistudio.google.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -74,7 +74,7 @@
     },
     {
       "name": "Perplexity",
-      "website": "https://www.perplexity.ai/",
+      "website": "https://www.perplexity.ai",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -82,7 +82,7 @@
     },
     {
       "name": "Mistral",
-      "website": "https://chat.mistral.ai/",
+      "website": "https://chat.mistral.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
@@ -90,7 +90,7 @@
     },
     {
       "name": "Blackbox",
-      "website": "https://app.blackbox.ai/",
+      "website": "https://app.blackbox.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -98,7 +98,7 @@
     },
     {
       "name": "Copilot",
-      "website": "https://copilot.microsoft.com/",
+      "website": "https://copilot.microsoft.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -114,7 +114,7 @@
     },
     {
       "name": "HuggingChat",
-      "website": "https://huggingface.co/",
+      "website": "https://huggingface.co",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -122,7 +122,7 @@
     },
     {
       "name": "Meta AI",
-      "website": "https://www.meta.ai/",
+      "website": "https://www.meta.ai",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -130,7 +130,7 @@
     },
     {
       "name": "Euria",
-      "website": "https://euria.infomaniak.com/",
+      "website": "https://euria.infomaniak.com",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -138,7 +138,7 @@
     },
     {
       "name": "Z AI",
-      "website": "https://chat.z.ai/",
+      "website": "https://chat.z.ai",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -146,7 +146,7 @@
     },
     {
       "name": "H2O GPTe",
-      "website": "https://h2ogpte.genai.h2o.ai/",
+      "website": "https://h2ogpte.genai.h2o.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -162,7 +162,7 @@
     },
     {
       "name": "Consensus",
-      "website": "https://consensus.app/",
+      "website": "https://consensus.app",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -170,7 +170,7 @@
     },
     {
       "name": "PLLuM",
-      "website": "https://pllum.clarin-pl.eu/",
+      "website": "https://pllum.clarin-pl.eu",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -178,7 +178,7 @@
     },
     {
       "name": "GPai",
-      "website": "https://gpai.app/",
+      "website": "https://gpai.app",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -210,7 +210,7 @@
     },
     {
       "name": "MiroMind AI",
-      "website": "https://dr.miromind.ai/",
+      "website": "https://dr.miromind.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -226,7 +226,7 @@
     },
     {
       "name": "Together AI",
-      "website": "https://chat.together.ai/",
+      "website": "https://chat.together.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -242,7 +242,7 @@
     },
     {
       "name": "Mammouth AI",
-      "website": "https://mammouth.ai/",
+      "website": "https://mammouth.ai",
       "pricing": "paid",
       "privacy": "friendly",
       "login_required": true,
@@ -250,7 +250,7 @@
     },
     {
       "name": "TurboSeek",
-      "website": "https://www.turboseek.io/",
+      "website": "https://www.turboseek.io",
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
@@ -258,7 +258,7 @@
     },
     {
       "name": "Kimi",
-      "website": "https://www.kimi.com/",
+      "website": "https://www.kimi.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -266,7 +266,7 @@
     },
     {
       "name": "Indus",
-      "website": "https://indus.sarvam.ai/",
+      "website": "https://indus.sarvam.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -274,7 +274,7 @@
     },
     {
       "name": "Poe",
-      "website": "https://poe.com/",
+      "website": "https://poe.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -282,7 +282,7 @@
     },
     {
       "name": "Paperguide AI",
-      "website": "https://paperguide.ai/",
+      "website": "https://paperguide.ai",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -290,7 +290,7 @@
     },
     {
       "name": "Elicit",
-      "website": "https://elicit.com/",
+      "website": "https://elicit.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -298,7 +298,7 @@
     },
     {
       "name": "SciSpace AI",
-      "website": "https://scispace.com/",
+      "website": "https://scispace.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -314,7 +314,7 @@
     },
     {
       "name": "10b AI",
-      "website": "https://10b.ai/",
+      "website": "https://10b.ai",
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
@@ -322,7 +322,7 @@
     },
     {
       "name": "Manus",
-      "website": "https://manus.im/",
+      "website": "https://manus.im",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -330,7 +330,7 @@
     },
     {
       "name": "Character AI",
-      "website": "https://character.ai/",
+      "website": "https://character.ai",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -338,7 +338,7 @@
     },
     {
       "name": "Thaura",
-      "website": "https://thaura.ai/",
+      "website": "https://thaura.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -346,7 +346,7 @@
     },
     {
       "name": "Doubao",
-      "website": "https://www.doubao.com/chat/",
+      "website": "https://www.doubao.com/chat",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -354,7 +354,7 @@
     },
     {
       "name": "Usul",
-      "website": "https://usul.ai/",
+      "website": "https://usul.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -362,7 +362,7 @@
     },
     {
       "name": "Ernie",
-      "website": "https://ernie.baidu.com/",
+      "website": "https://ernie.baidu.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -370,7 +370,7 @@
     },
     {
       "name": "Yupp AI",
-      "website": "https://yupp.ai/",
+      "website": "https://yupp.ai",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -402,7 +402,7 @@
     },
     {
       "name": "Llama Tutor",
-      "website": "https://llamatutor.together.ai/",
+      "website": "https://llamatutor.together.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -410,7 +410,7 @@
     },
     {
       "name": "xPrivo",
-      "website": "https://www.xprivo.com/",
+      "website": "https://www.xprivo.com",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -418,7 +418,7 @@
     },
     {
       "name": "Allen AI",
-      "website": "https://playground.allenai.org/",
+      "website": "https://playground.allenai.org",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -426,7 +426,7 @@
     },
     {
       "name": "SEA-LION",
-      "website": "https://playground.sea-lion.ai/",
+      "website": "https://playground.sea-lion.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -442,7 +442,7 @@
     },
     {
       "name": "Confer",
-      "website": "https://confer.to/",
+      "website": "https://confer.to",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -450,7 +450,7 @@
     },
     {
       "name": "Google",
-      "website": "https://google.com/ai/",
+      "website": "https://google.com/ai",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -458,7 +458,7 @@
     },
     {
       "name": "Mercury",
-      "website": "https://chat.inceptionlabs.ai/",
+      "website": "https://chat.inceptionlabs.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -466,7 +466,7 @@
     },
     {
       "name": "Baidu Wenxin",
-      "website": "https://wenxin.baidu.com/",
+      "website": "https://wenxin.baidu.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -474,7 +474,7 @@
     },
     {
       "name": "Baidu Yiyan",
-      "website": "https://yiyan.baidu.com/",
+      "website": "https://yiyan.baidu.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -482,7 +482,7 @@
     },
     {
       "name": "MiniMax",
-      "website": "https://agent.minimaxi.com/",
+      "website": "https://agent.minimaxi.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -490,7 +490,7 @@
     },
     {
       "name": "Zhipu Qingyan",
-      "website": "https://chatglm.cn/",
+      "website": "https://chatglm.cn",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -506,7 +506,7 @@
     },
     {
       "name": "Tencent Yuanbao",
-      "website": "https://yuanbao.tencent.com/",
+      "website": "https://yuanbao.tencent.com",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
@@ -514,7 +514,7 @@
     },
     {
       "name": "LongCat",
-      "website": "https://longcat.chat/",
+      "website": "https://longcat.chat",
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
@@ -530,7 +530,7 @@
     },
     {
       "name": "Sci Bot",
-      "website": "https://sci-bot.ru/",
+      "website": "https://sci-bot.ru",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -546,7 +546,7 @@
     },
     {
       "name": "Okara",
-      "website": "https://okara.ai/chat/",
+      "website": "https://okara.ai/chat",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -554,7 +554,7 @@
     },
     {
       "name": "Obscurify AI",
-      "website": "https://obscurify.ai/",
+      "website": "https://obscurify.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -562,7 +562,7 @@
     },
     {
       "name": "Nano GPT",
-      "website": "https://nano-gpt.com/conversation/",
+      "website": "https://nano-gpt.com/conversation",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -578,7 +578,7 @@
     },
     {
       "name": "Maple AI",
-      "website": "https://trymaple.ai/",
+      "website": "https://trymaple.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -586,7 +586,7 @@
     },
     {
       "name": "Hacker AI",
-      "website": "https://hackerai.co/",
+      "website": "https://hackerai.co",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -594,7 +594,7 @@
     },
     {
       "name": "Ellydee",
-      "website": "https://ellydee.ai/",
+      "website": "https://ellydee.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -602,7 +602,7 @@
     },
     {
       "name": "RuFlo",
-      "website": "https://flo.ruv.io/",
+      "website": "https://flo.ruv.io",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -626,7 +626,7 @@
     },
     {
       "name": "Chat Jimmy",
-      "website": "https://chatjimmy.ai/",
+      "website": "https://chatjimmy.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -634,7 +634,7 @@
     },
     {
       "name": "StepFun",
-      "website": "https://www.stepfun.com/",
+      "website": "https://www.stepfun.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -658,7 +658,7 @@
     },
     {
       "name": "Morphic",
-      "website": "https://chat.morphic.sh/",
+      "website": "https://chat.morphic.sh",
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
@@ -666,7 +666,7 @@
     },
     {
       "name": "Spicychat",
-      "website": "https://spicychat.ai/",
+      "website": "https://spicychat.ai",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -674,7 +674,7 @@
     },
     {
       "name": "PayPerQ",
-      "website": "https://ppq.ai/",
+      "website": "https://ppq.ai",
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
@@ -682,7 +682,7 @@
     },
     {
       "name": "Alice AI",
-      "website": "https://alice.yandex.ru/",
+      "website": "https://alice.yandex.ru",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -690,7 +690,7 @@
     },
     {
       "name": "GigaChat",
-      "website": "https://giga.chat/",
+      "website": "https://giga.chat",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -706,7 +706,7 @@
     },
     {
       "name": "Free Stock AI",
-      "website": "https://free.stockai.trade/",
+      "website": "https://free.stockai.trade",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -714,7 +714,7 @@
     },
     {
       "name": "DeepCogito",
-      "website": "https://chat.deepcogito.com/",
+      "website": "https://chat.deepcogito.com",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -722,7 +722,7 @@
     },
     {
       "name": "Base44",
-      "website": "https://app.base44.com/",
+      "website": "https://app.base44.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
@@ -730,7 +730,7 @@
     },
     {
       "name": "Janitor AI",
-      "website": "https://janitorai.com/",
+      "website": "https://janitorai.com",
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
@@ -738,7 +738,7 @@
     },
     {
       "name": "Deep Hat",
-      "website": "https://app.deephat.ai/",
+      "website": "https://app.deephat.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
@@ -746,7 +746,7 @@
     },
     {
       "name": "Matrix Chats",
-      "website": "https://matrixchats.com/",
+      "website": "https://matrixchats.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -754,7 +754,7 @@
     },
     {
       "name": "Aura Chat",
-      "website": "https://chataura.com.br/",
+      "website": "https://chataura.com.br",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -762,7 +762,7 @@
     },
     {
       "name": "Evaristo.ai",
-      "website": "https://evaristo.ai/",
+      "website": "https://evaristo.ai",
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
@@ -778,7 +778,7 @@
     },
     {
       "name": "HackAIGC",
-      "website": "https://chat.hackaigc.com/",
+      "website": "https://chat.hackaigc.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -786,7 +786,7 @@
     },
     {
       "name": "Arcee AI Chat",
-      "website": "https://chat.arcee.ai/",
+      "website": "https://chat.arcee.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -802,7 +802,7 @@
     },
     {
       "name": "Meli AI",
-      "website": "https://app.meli.im/",
+      "website": "https://app.meli.im",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -818,7 +818,7 @@
     },
     {
       "name": "Internxt AI",
-      "website": "https://ai.internxt.com/",
+      "website": "https://ai.internxt.com",
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
@@ -866,7 +866,7 @@
     },
     {
       "name": "Qwen Studio",
-      "website": "https://qwen.ai/",
+      "website": "https://qwen.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -874,7 +874,7 @@
     },
     {
       "name": "Magisterium AI",
-      "website": "https://www.magisterium.com/",
+      "website": "https://www.magisterium.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -890,7 +890,7 @@
     },
     {
       "name": "Atlas Cloud",
-      "website": "https://www.atlascloud.ai/",
+      "website": "https://www.atlascloud.ai",
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
@@ -898,7 +898,7 @@
     },
     {
       "name": "Unlimited AI",
-      "website": "https://unlimitedai.org/chat/",
+      "website": "https://unlimitedai.org/chat",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
@@ -906,7 +906,7 @@
     },
     {
       "name": "Saucepan AI",
-      "website": "https://saucepan.ai/",
+      "website": "https://saucepan.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
@@ -914,7 +914,7 @@
     },
     {
       "name": "EcoGPT",
-      "website": "https://ecogpt.com/",
+      "website": "https://ecogpt.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -922,7 +922,7 @@
     },
     {
       "name": "Tinfoil Private Chat",
-      "website": "https://chat.tinfoil.sh/",
+      "website": "https://chat.tinfoil.sh",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -962,7 +962,7 @@
     },
     {
       "name": "Zapia",
-      "website": "https://app.zapia.com/",
+      "website": "https://app.zapia.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1018,7 +1018,7 @@
     },
     {
       "name": "Amália",
-      "website": "https://amalia.layerx.xyz/",
+      "website": "https://amalia.layerx.xyz",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
@@ -1026,7 +1026,7 @@
     },
     {
       "name": "DarkGPT",
-      "website": "https://darkgpt.chat/",
+      "website": "https://darkgpt.chat",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "Nastia",
-      "website": "https://www.nastia.ai/",
+      "website": "https://www.nastia.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -1044,7 +1044,7 @@
   "music generator": [
     {
       "name": "Sonauto",
-      "website": "https://sonauto.ai/",
+      "website": "https://sonauto.ai",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "Wondera",
-      "website": "https://www.wondera.ai/",
+      "website": "https://www.wondera.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1070,7 +1070,7 @@
   "voice generator": [
     {
       "name": "ElevenLabs",
-      "website": "https://elevenlabs.io/",
+      "website": "https://elevenlabs.io",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1090,7 +1090,7 @@
   "writing helper": [
     {
       "name": "Litero AI",
-      "website": "https://litero.ai/",
+      "website": "https://litero.ai",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "Prompt Optimizer",
-      "website": "https://prompt.always200.com/",
+      "website": "https://prompt.always200.com",
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
@@ -1116,7 +1116,7 @@
   "research assistant": [
     {
       "name": "Scira AI",
-      "website": "https://scira.ai/",
+      "website": "https://scira.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1148,7 +1148,7 @@
     },
     {
       "name": "MathGPT Pro",
-      "website": "https://www.mathgptpro.com/",
+      "website": "https://www.mathgptpro.com",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
@@ -1210,7 +1210,7 @@
   "image generator": [
     {
       "name": "AI Face Swap",
-      "website": "https://aifaceswap.io/",
+      "website": "https://aifaceswap.io",
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
@@ -1228,7 +1228,7 @@
   "many in one": [
     {
       "name": "Musely.ai",
-      "website": "https://musely.ai/",
+      "website": "https://musely.ai",
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
@@ -1252,7 +1252,7 @@
     },
     {
       "name": "Freebuff",
-      "website": "https://freebuff.com/",
+      "website": "https://freebuff.com",
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
