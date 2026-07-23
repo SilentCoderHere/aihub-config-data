@@ -1179,6 +1179,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["translation", "document translation", "professional writing"]
+    },
+    {
+      "name": "Maestra Live Translate",
+      "website": "https://live.maestra.ai/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": false,
+      "best_for": ["live translation", "captioning", "interpretation"]
     }
   ],
   "presentation maker": [
