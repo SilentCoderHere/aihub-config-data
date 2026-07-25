@@ -1177,6 +1177,14 @@
       "privacy": "neutral",
       "login_required": true,
       "best_for": ["coding", "debugging", "research"]
+    },
+    {
+      "name": "Sakana Fugu",
+      "website": "https://sakana.ai/fugu/",
+      "pricing": "paid",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": ["coding", "research", "cybersecurity"]
     }
   ],
   "translator": [
