@@ -1047,6 +1047,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["conversation", "coding", "research"]
+    },
+    {
+      "name": "Uncensored Chat",
+      "website": "https://uncensored.chat",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["conversation", "roleplay", "creative writing"]
     }
   ],
   "music generator": [
