@@ -6,7 +6,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "image gen", "pdf chat"]
+      "best_for": [
+        "private chat",
+        "image gen",
+        "pdf chat"
+      ]
     },
     {
       "name": "Venice",
@@ -14,7 +18,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["uncensored chat", "creative writing", "privacy"]
+      "best_for": [
+        "uncensored chat",
+        "creative writing",
+        "privacy"
+      ]
     },
     {
       "name": "Grok",
@@ -22,7 +30,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["coding", "research", "brainstorming"]
+      "best_for": [
+        "coding",
+        "research",
+        "brainstorming"
+      ]
     },
     {
       "name": "Lumo",
@@ -30,7 +42,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["private chat", "secure AI", "assistance"]
+      "best_for": [
+        "private chat",
+        "secure AI",
+        "assistance"
+      ]
     },
     {
       "name": "Deepseek",
@@ -38,7 +54,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["coding", "reasoning", "technical"]
+      "best_for": [
+        "coding",
+        "reasoning",
+        "technical"
+      ]
     },
     {
       "name": "ChatGPT",
@@ -46,7 +66,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["writing", "coding", "research"]
+      "best_for": [
+        "writing",
+        "coding",
+        "research"
+      ]
     },
     {
       "name": "Gemini",
@@ -54,7 +78,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["multimodal", "writing", "research"]
+      "best_for": [
+        "multimodal",
+        "writing",
+        "research"
+      ]
     },
     {
       "name": "Google Ai Studio",
@@ -62,7 +90,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["prompt engineering", "app building", "experimentation"]
+      "best_for": [
+        "prompt engineering",
+        "app building",
+        "experimentation"
+      ]
     },
     {
       "name": "Claude",
@@ -70,7 +102,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["writing", "coding", "analysis"]
+      "best_for": [
+        "writing",
+        "coding",
+        "analysis"
+      ]
     },
     {
       "name": "Perplexity",
@@ -78,7 +114,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["research", "fact-checking", "summarization"]
+      "best_for": [
+        "research",
+        "fact-checking",
+        "summarization"
+      ]
     },
     {
       "name": "Mistral",
@@ -86,7 +126,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["coding", "research", "writing"]
+      "best_for": [
+        "coding",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "Blackbox",
@@ -94,7 +138,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["coding", "debugging", "development"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "development"
+      ]
     },
     {
       "name": "Copilot",
@@ -102,7 +150,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["productivity", "research", "creative"]
+      "best_for": [
+        "productivity",
+        "research",
+        "creative"
+      ]
     },
     {
       "name": "Brave",
@@ -110,7 +162,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private search", "research", "chat"]
+      "best_for": [
+        "private search",
+        "research",
+        "chat"
+      ]
     },
     {
       "name": "HuggingChat",
@@ -118,7 +174,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["open models", "experimentation", "research"]
+      "best_for": [
+        "open models",
+        "experimentation",
+        "research"
+      ]
     },
     {
       "name": "Meta AI",
@@ -126,7 +186,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["chat", "image gen", "creative"]
+      "best_for": [
+        "chat",
+        "image gen",
+        "creative"
+      ]
     },
     {
       "name": "Euria",
@@ -134,7 +198,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "secure AI", "assistance"]
+      "best_for": [
+        "private chat",
+        "secure AI",
+        "assistance"
+      ]
     },
     {
       "name": "Z AI",
@@ -142,7 +210,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["chat", "research", "writing"]
+      "best_for": [
+        "chat",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "H2O GPTe",
@@ -150,7 +222,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["data analysis", "document processing", "business"]
+      "best_for": [
+        "data analysis",
+        "document processing",
+        "business"
+      ]
     },
     {
       "name": "Dola",
@@ -158,7 +234,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["productivity", "research", "daily assistance"]
+      "best_for": [
+        "productivity",
+        "research",
+        "daily assistance"
+      ]
     },
     {
       "name": "Consensus",
@@ -166,7 +246,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["academic search", "evidence synthesis", "research"]
+      "best_for": [
+        "academic search",
+        "evidence synthesis",
+        "research"
+      ]
     },
     {
       "name": "PLLuM",
@@ -174,7 +258,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["Polish language", "chat", "research"]
+      "best_for": [
+        "Polish language",
+        "chat",
+        "research"
+      ]
     },
     {
       "name": "GPai",
@@ -182,7 +270,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["chat", "writing", "research"]
+      "best_for": [
+        "chat",
+        "writing",
+        "research"
+      ]
     },
     {
       "name": "Public AI",
@@ -190,7 +282,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["open access", "research", "chat"]
+      "best_for": [
+        "open access",
+        "research",
+        "chat"
+      ]
     },
     {
       "name": "Arena",
@@ -198,7 +294,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["model comparison", "benchmarking", "chat"]
+      "best_for": [
+        "model comparison",
+        "benchmarking",
+        "chat"
+      ]
     },
     {
       "name": "OpenRouter Chat",
@@ -206,7 +306,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["multi-model", "routing", "developer"]
+      "best_for": [
+        "multi-model",
+        "routing",
+        "developer"
+      ]
     },
     {
       "name": "MiroMind AI",
@@ -214,7 +318,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["chat", "writing", "productivity"]
+      "best_for": [
+        "chat",
+        "writing",
+        "productivity"
+      ]
     },
     {
       "name": "YouAI",
@@ -222,7 +330,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["search", "research", "personalized"]
+      "best_for": [
+        "search",
+        "research",
+        "personalized"
+      ]
     },
     {
       "name": "Together AI",
@@ -230,7 +342,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["open models", "experimentation", "research"]
+      "best_for": [
+        "open models",
+        "experimentation",
+        "research"
+      ]
     },
     {
       "name": "SecAI",
@@ -238,7 +354,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["cybersecurity", "technical", "chat"]
+      "best_for": [
+        "cybersecurity",
+        "technical",
+        "chat"
+      ]
     },
     {
       "name": "Mammouth AI",
@@ -246,7 +366,11 @@
       "pricing": "paid",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["multi-model", "image gen", "video gen"]
+      "best_for": [
+        "multi-model",
+        "image gen",
+        "video gen"
+      ]
     },
     {
       "name": "TurboSeek",
@@ -254,7 +378,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["fast answers", "research", "search"]
+      "best_for": [
+        "fast answers",
+        "research",
+        "search"
+      ]
     },
     {
       "name": "Kimi",
@@ -262,7 +390,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["coding", "long context", "chat"]
+      "best_for": [
+        "coding",
+        "long context",
+        "chat"
+      ]
     },
     {
       "name": "Indus",
@@ -270,7 +402,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["Indian languages", "regional AI", "research"]
+      "best_for": [
+        "Indian languages",
+        "regional AI",
+        "research"
+      ]
     },
     {
       "name": "Poe",
@@ -278,7 +414,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["multi-model", "chat", "creative"]
+      "best_for": [
+        "multi-model",
+        "chat",
+        "creative"
+      ]
     },
     {
       "name": "Paperguide AI",
@@ -286,7 +426,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["academic research", "literature review", "citation"]
+      "best_for": [
+        "academic research",
+        "literature review",
+        "citation"
+      ]
     },
     {
       "name": "Elicit",
@@ -294,7 +438,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["scientific research", "systematic reviews", "evidence"]
+      "best_for": [
+        "scientific research",
+        "systematic reviews",
+        "evidence"
+      ]
     },
     {
       "name": "SciSpace AI",
@@ -302,7 +450,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["pdf chat", "literature review", "academic"]
+      "best_for": [
+        "pdf chat",
+        "literature review",
+        "academic"
+      ]
     },
     {
       "name": "Genspark AI",
@@ -310,7 +462,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["ai search", "summarization", "research"]
+      "best_for": [
+        "ai search",
+        "summarization",
+        "research"
+      ]
     },
     {
       "name": "10b AI",
@@ -318,7 +474,11 @@
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["productivity", "creative", "enterprise"]
+      "best_for": [
+        "productivity",
+        "creative",
+        "enterprise"
+      ]
     },
     {
       "name": "Manus",
@@ -326,7 +486,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["chat", "writing", "assistance"]
+      "best_for": [
+        "chat",
+        "writing",
+        "assistance"
+      ]
     },
     {
       "name": "Character AI",
@@ -334,7 +498,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["roleplay", "storytelling", "entertainment"]
+      "best_for": [
+        "roleplay",
+        "storytelling",
+        "entertainment"
+      ]
     },
     {
       "name": "Thaura",
@@ -342,7 +510,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "secure AI", "creative"]
+      "best_for": [
+        "private chat",
+        "secure AI",
+        "creative"
+      ]
     },
     {
       "name": "Doubao",
@@ -350,7 +522,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "multimodal", "daily use"]
+      "best_for": [
+        "Chinese",
+        "multimodal",
+        "daily use"
+      ]
     },
     {
       "name": "Usul",
@@ -358,7 +534,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["chat", "research", "writing"]
+      "best_for": [
+        "chat",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "Ernie",
@@ -366,7 +546,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "search", "multimodal"]
+      "best_for": [
+        "Chinese",
+        "search",
+        "multimodal"
+      ]
     },
     {
       "name": "Yupp AI",
@@ -374,7 +558,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["chat", "creative writing", "entertainment"]
+      "best_for": [
+        "chat",
+        "creative writing",
+        "entertainment"
+      ]
     },
     {
       "name": "NilGPT",
@@ -382,7 +570,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "uncensored", "creative"]
+      "best_for": [
+        "private chat",
+        "uncensored",
+        "creative"
+      ]
     },
     {
       "name": "Nadanada Chat",
@@ -390,7 +582,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["roleplay", "creative writing", "entertainment"]
+      "best_for": [
+        "roleplay",
+        "creative writing",
+        "entertainment"
+      ]
     },
     {
       "name": "Perchance",
@@ -398,7 +594,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["story generation", "roleplay", "text adventures"]
+      "best_for": [
+        "story generation",
+        "roleplay",
+        "text adventures"
+      ]
     },
     {
       "name": "Llama Tutor",
@@ -406,7 +606,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["education", "tutoring", "learning"]
+      "best_for": [
+        "education",
+        "tutoring",
+        "learning"
+      ]
     },
     {
       "name": "xPrivo",
@@ -414,7 +618,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private AI", "secure chat", "privacy"]
+      "best_for": [
+        "private AI",
+        "secure chat",
+        "privacy"
+      ]
     },
     {
       "name": "Allen AI",
@@ -422,7 +630,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["research", "experimentation", "science"]
+      "best_for": [
+        "research",
+        "experimentation",
+        "science"
+      ]
     },
     {
       "name": "SEA-LION",
@@ -430,7 +642,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["Southeast Asian", "regional AI", "research"]
+      "best_for": [
+        "Southeast Asian",
+        "regional AI",
+        "research"
+      ]
     },
     {
       "name": "MiMo Studio",
@@ -438,7 +654,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["multimodal", "creative", "Chinese"]
+      "best_for": [
+        "multimodal",
+        "creative",
+        "Chinese"
+      ]
     },
     {
       "name": "Confer",
@@ -446,7 +666,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["meetings", "summarization", "productivity"]
+      "best_for": [
+        "meetings",
+        "summarization",
+        "productivity"
+      ]
     },
     {
       "name": "Google",
@@ -454,7 +678,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["search integration", "multimodal", "productivity"]
+      "best_for": [
+        "search integration",
+        "multimodal",
+        "productivity"
+      ]
     },
     {
       "name": "Mercury",
@@ -462,7 +690,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["chat", "research", "writing"]
+      "best_for": [
+        "chat",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "Baidu Wenxin",
@@ -470,7 +702,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "search", "creative"]
+      "best_for": [
+        "Chinese",
+        "search",
+        "creative"
+      ]
     },
     {
       "name": "Baidu Yiyan",
@@ -478,7 +714,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "multimodal", "assistance"]
+      "best_for": [
+        "Chinese",
+        "multimodal",
+        "assistance"
+      ]
     },
     {
       "name": "MiniMax",
@@ -486,7 +726,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["agentic AI", "chat", "creative"]
+      "best_for": [
+        "agentic AI",
+        "chat",
+        "creative"
+      ]
     },
     {
       "name": "Zhipu Qingyan",
@@ -494,7 +738,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "coding", "writing"]
+      "best_for": [
+        "Chinese",
+        "coding",
+        "writing"
+      ]
     },
     {
       "name": "Xunfei Starfire",
@@ -502,7 +750,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["voice AI", "Chinese", "productivity"]
+      "best_for": [
+        "voice AI",
+        "Chinese",
+        "productivity"
+      ]
     },
     {
       "name": "Tencent Yuanbao",
@@ -510,7 +762,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Chinese", "multimodal", "entertainment"]
+      "best_for": [
+        "Chinese",
+        "multimodal",
+        "entertainment"
+      ]
     },
     {
       "name": "LongCat",
@@ -518,7 +774,11 @@
       "pricing": "free",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["long context", "document analysis", "research"]
+      "best_for": [
+        "long context",
+        "document analysis",
+        "research"
+      ]
     },
     {
       "name": "Mike",
@@ -526,7 +786,11 @@
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["productivity", "task management", "personal assistant"]
+      "best_for": [
+        "productivity",
+        "task management",
+        "personal assistant"
+      ]
     },
     {
       "name": "Sci Bot",
@@ -534,7 +798,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["scientific research", "academic assistance", "science"]
+      "best_for": [
+        "scientific research",
+        "academic assistance",
+        "science"
+      ]
     },
     {
       "name": "Kai",
@@ -542,7 +810,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["chat", "creative writing", "roleplay"]
+      "best_for": [
+        "chat",
+        "creative writing",
+        "roleplay"
+      ]
     },
     {
       "name": "Okara",
@@ -550,7 +822,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "uncensored", "creative"]
+      "best_for": [
+        "private chat",
+        "uncensored",
+        "creative"
+      ]
     },
     {
       "name": "Obscurify AI",
@@ -558,7 +834,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["privacy-focused", "secure AI", "research"]
+      "best_for": [
+        "privacy-focused",
+        "secure AI",
+        "research"
+      ]
     },
     {
       "name": "Nano GPT",
@@ -566,7 +846,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["fast responses", "lightweight", "daily use"]
+      "best_for": [
+        "fast responses",
+        "lightweight",
+        "daily use"
+      ]
     },
     {
       "name": "Kagi",
@@ -574,7 +858,11 @@
       "pricing": "paid",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["search", "privacy", "research"]
+      "best_for": [
+        "search",
+        "privacy",
+        "research"
+      ]
     },
     {
       "name": "Maple AI",
@@ -582,7 +870,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["chat", "productivity", "writing"]
+      "best_for": [
+        "chat",
+        "productivity",
+        "writing"
+      ]
     },
     {
       "name": "Hacker AI",
@@ -590,7 +882,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["coding", "hacking tools", "security"]
+      "best_for": [
+        "coding",
+        "hacking tools",
+        "security"
+      ]
     },
     {
       "name": "Ellydee",
@@ -598,7 +894,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["chat", "creative", "productivity"]
+      "best_for": [
+        "chat",
+        "creative",
+        "productivity"
+      ]
     },
     {
       "name": "RuFlo",
@@ -606,7 +906,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["Russian", "chat", "research"]
+      "best_for": [
+        "Russian",
+        "chat",
+        "research"
+      ]
     },
     {
       "name": "Reddit",
@@ -614,7 +918,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["community answers", "research", "trends"]
+      "best_for": [
+        "community answers",
+        "research",
+        "trends"
+      ]
     },
     {
       "name": "Copilot 365",
@@ -622,7 +930,11 @@
       "pricing": "paid",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["microsoft 365", "productivity", "business"]
+      "best_for": [
+        "microsoft 365",
+        "productivity",
+        "business"
+      ]
     },
     {
       "name": "Chat Jimmy",
@@ -630,7 +942,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["chat", "entertainment", "daily"]
+      "best_for": [
+        "chat",
+        "entertainment",
+        "daily"
+      ]
     },
     {
       "name": "StepFun",
@@ -638,7 +954,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["multimodal", "creative", "Chinese"]
+      "best_for": [
+        "multimodal",
+        "creative",
+        "Chinese"
+      ]
     },
     {
       "name": "Uncensored AI",
@@ -646,7 +966,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["uncensored chat", "roleplay", "writing"]
+      "best_for": [
+        "uncensored chat",
+        "roleplay",
+        "writing"
+      ]
     },
     {
       "name": "Minara",
@@ -654,7 +978,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["chat", "research", "writing"]
+      "best_for": [
+        "chat",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "Morphic",
@@ -662,7 +990,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["private chat", "research", "creative"]
+      "best_for": [
+        "private chat",
+        "research",
+        "creative"
+      ]
     },
     {
       "name": "Spicychat",
@@ -670,7 +1002,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["roleplay", "nsfw", "entertainment"]
+      "best_for": [
+        "roleplay",
+        "nsfw",
+        "entertainment"
+      ]
     },
     {
       "name": "PayPerQ",
@@ -678,7 +1014,11 @@
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["pay-per-query", "research", "on-demand"]
+      "best_for": [
+        "pay-per-query",
+        "research",
+        "on-demand"
+      ]
     },
     {
       "name": "Alice AI",
@@ -686,7 +1026,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Russian", "voice", "yandex"]
+      "best_for": [
+        "Russian",
+        "voice",
+        "yandex"
+      ]
     },
     {
       "name": "GigaChat",
@@ -694,7 +1038,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["Russian", "multimodal", "creative"]
+      "best_for": [
+        "Russian",
+        "multimodal",
+        "creative"
+      ]
     },
     {
       "name": "Deep AI",
@@ -702,7 +1050,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["image gen", "chat", "creative"]
+      "best_for": [
+        "image gen",
+        "chat",
+        "creative"
+      ]
     },
     {
       "name": "Free Stock AI",
@@ -710,7 +1062,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["stock analysis", "financial research", "market"]
+      "best_for": [
+        "stock analysis",
+        "financial research",
+        "market"
+      ]
     },
     {
       "name": "DeepCogito",
@@ -718,7 +1074,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["reasoning", "research", "technical"]
+      "best_for": [
+        "reasoning",
+        "research",
+        "technical"
+      ]
     },
     {
       "name": "Base44",
@@ -726,7 +1086,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["no-code", "app building", "productivity"]
+      "best_for": [
+        "no-code",
+        "app building",
+        "productivity"
+      ]
     },
     {
       "name": "Janitor AI",
@@ -734,7 +1098,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": false,
-      "best_for": ["roleplay", "nsfw", "storytelling"]
+      "best_for": [
+        "roleplay",
+        "nsfw",
+        "storytelling"
+      ]
     },
     {
       "name": "Deep Hat",
@@ -742,7 +1110,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["cybersecurity", "red teaming", "devsecops"]
+      "best_for": [
+        "cybersecurity",
+        "red teaming",
+        "devsecops"
+      ]
     },
     {
       "name": "Matrix Chats",
@@ -750,7 +1122,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["uncensored chat", "image gen", "writing"]
+      "best_for": [
+        "uncensored chat",
+        "image gen",
+        "writing"
+      ]
     },
     {
       "name": "Aura Chat",
@@ -758,7 +1134,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["uncensored chat", "roleplay", "writing"]
+      "best_for": [
+        "uncensored chat",
+        "roleplay",
+        "writing"
+      ]
     },
     {
       "name": "Evaristo.ai",
@@ -766,7 +1146,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["Portuguese", "creative writing", "research"]
+      "best_for": [
+        "Portuguese",
+        "creative writing",
+        "research"
+      ]
     },
     {
       "name": "Ecosia AI Chat",
@@ -774,7 +1158,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["sustainable", "research", "advice"]
+      "best_for": [
+        "sustainable",
+        "research",
+        "advice"
+      ]
     },
     {
       "name": "HackAIGC",
@@ -782,7 +1170,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["nsfw", "creative writing", "image gen"]
+      "best_for": [
+        "nsfw",
+        "creative writing",
+        "image gen"
+      ]
     },
     {
       "name": "Arcee AI Chat",
@@ -790,7 +1182,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["reasoning", "coding", "writing"]
+      "best_for": [
+        "reasoning",
+        "coding",
+        "writing"
+      ]
     },
     {
       "name": "WormGPT",
@@ -798,7 +1194,11 @@
       "pricing": "paid",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["uncensored chat", "hacking research", "coding"]
+      "best_for": [
+        "uncensored chat",
+        "hacking research",
+        "coding"
+      ]
     },
     {
       "name": "Meli AI",
@@ -806,7 +1206,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["personal assistance", "task management", "reminders"]
+      "best_for": [
+        "personal assistance",
+        "task management",
+        "reminders"
+      ]
     },
     {
       "name": "Bielik AI",
@@ -814,7 +1218,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["conversation", "research", "summarization"]
+      "best_for": [
+        "conversation",
+        "research",
+        "summarization"
+      ]
     },
     {
       "name": "Internxt AI",
@@ -822,7 +1230,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["research", "coding", "general questions"]
+      "best_for": [
+        "research",
+        "coding",
+        "general questions"
+      ]
     },
     {
       "name": "Chub AI",
@@ -830,7 +1242,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["roleplaying", "character chat", "storytelling"]
+      "best_for": [
+        "roleplaying",
+        "character chat",
+        "storytelling"
+      ]
     },
     {
       "name": "Woozlit",
@@ -838,7 +1254,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["general questions", "productivity", "image generation"]
+      "best_for": [
+        "general questions",
+        "productivity",
+        "image generation"
+      ]
     },
     {
       "name": "AiAiAi",
@@ -846,7 +1266,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["general questions", "model comparison", "productivity"]
+      "best_for": [
+        "general questions",
+        "model comparison",
+        "productivity"
+      ]
     },
     {
       "name": "Shannon AI",
@@ -854,7 +1278,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["red teaming", "research", "uncensored chat"]
+      "best_for": [
+        "red teaming",
+        "research",
+        "uncensored chat"
+      ]
     },
     {
       "name": "Raccoon AI",
@@ -862,7 +1290,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["web apps", "presentations", "data analysis"]
+      "best_for": [
+        "web apps",
+        "presentations",
+        "data analysis"
+      ]
     },
     {
       "name": "Qwen Studio",
@@ -870,7 +1302,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["chatbot", "research", "image generation"]
+      "best_for": [
+        "chatbot",
+        "research",
+        "image generation"
+      ]
     },
     {
       "name": "Magisterium AI",
@@ -878,7 +1314,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["catholic research", "theological questions", "faith education"]
+      "best_for": [
+        "catholic research",
+        "theological questions",
+        "faith education"
+      ]
     },
     {
       "name": "Deepshi",
@@ -886,7 +1326,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["conversation", "creative thinking", "image generation"]
+      "best_for": [
+        "conversation",
+        "creative thinking",
+        "image generation"
+      ]
     },
     {
       "name": "Atlas Cloud",
@@ -894,7 +1338,11 @@
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["multimodal generation", "video creation", "image editing"]
+      "best_for": [
+        "multimodal generation",
+        "video creation",
+        "image editing"
+      ]
     },
     {
       "name": "Unlimited AI",
@@ -902,7 +1350,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["general chat", "writing", "coding"]
+      "best_for": [
+        "general chat",
+        "writing",
+        "coding"
+      ]
     },
     {
       "name": "Saucepan AI",
@@ -910,7 +1362,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["conversation", "roleplay", "creative writing"]
+      "best_for": [
+        "conversation",
+        "roleplay",
+        "creative writing"
+      ]
     },
     {
       "name": "EcoGPT",
@@ -918,7 +1374,12 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["conversation", "writing", "research", "image generation"]
+      "best_for": [
+        "conversation",
+        "writing",
+        "research",
+        "image generation"
+      ]
     },
     {
       "name": "Tinfoil Private Chat",
@@ -926,7 +1387,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["conversation", "research", "writing"]
+      "best_for": [
+        "conversation",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "Agnai Chat",
@@ -934,7 +1399,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["roleplaying", "character chat", "storytelling"]
+      "best_for": [
+        "roleplaying",
+        "character chat",
+        "storytelling"
+      ]
     },
     {
       "name": "ChatMinerva",
@@ -942,7 +1411,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["research", "document analysis", "summarization"]
+      "best_for": [
+        "research",
+        "document analysis",
+        "summarization"
+      ]
     },
     {
       "name": "MiniMax Code",
@@ -950,7 +1423,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["coding", "debugging", "research"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "research"
+      ]
     },
     {
       "name": "DeepSeek (Deutsch)",
@@ -958,7 +1435,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["research", "writing", "coding"]
+      "best_for": [
+        "research",
+        "writing",
+        "coding"
+      ]
     },
     {
       "name": "Zapia",
@@ -966,7 +1447,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["scheduling", "messaging", "shopping"]
+      "best_for": [
+        "scheduling",
+        "messaging",
+        "shopping"
+      ]
     },
     {
       "name": "Cursor Agents",
@@ -974,7 +1459,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["coding", "debugging", "research"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "research"
+      ]
     },
     {
       "name": "Replit",
@@ -982,7 +1471,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["coding", "debugging", "prototyping"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "prototyping"
+      ]
     },
     {
       "name": "DeepSeek AI",
@@ -990,7 +1483,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["chat", "coding", "writing"]
+      "best_for": [
+        "chat",
+        "coding",
+        "writing"
+      ]
     },
     {
       "name": "OpenCode",
@@ -998,7 +1495,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["coding", "debugging", "research"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "research"
+      ]
     },
     {
       "name": "Tinfoil",
@@ -1006,7 +1507,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["private conversation", "research", "coding"]
+      "best_for": [
+        "private conversation",
+        "research",
+        "coding"
+      ]
     },
     {
       "name": "Augure Chat",
@@ -1014,7 +1519,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["writing", "coding", "research"]
+      "best_for": [
+        "writing",
+        "coding",
+        "research"
+      ]
     },
     {
       "name": "Amália",
@@ -1022,7 +1531,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["conversation", "research", "writing"]
+      "best_for": [
+        "conversation",
+        "research",
+        "writing"
+      ]
     },
     {
       "name": "DarkGPT",
@@ -1030,7 +1543,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["cybersecurity", "coding", "research"]
+      "best_for": [
+        "cybersecurity",
+        "coding",
+        "research"
+      ]
     },
     {
       "name": "Nastia",
@@ -1038,7 +1555,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["conversation", "roleplay", "image generation"]
+      "best_for": [
+        "conversation",
+        "roleplay",
+        "image generation"
+      ]
     },
     {
       "name": "Dolphin Chat",
@@ -1046,7 +1567,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["conversation", "coding", "research"]
+      "best_for": [
+        "conversation",
+        "coding",
+        "research"
+      ]
     },
     {
       "name": "Uncensored Chat",
@@ -1054,7 +1579,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["conversation", "roleplay", "creative writing"]
+      "best_for": [
+        "conversation",
+        "roleplay",
+        "creative writing"
+      ]
     },
     {
       "name": "Unlimited AI Chat",
@@ -1062,7 +1591,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["conversation", "roleplay", "creative writing"]
+      "best_for": [
+        "conversation",
+        "roleplay",
+        "creative writing"
+      ]
     }
   ],
   "music generator": [
@@ -1072,7 +1605,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["music creation", "song generation", "lyrics to music"]
+      "best_for": [
+        "music creation",
+        "song generation",
+        "lyrics to music"
+      ]
     },
     {
       "name": "Suno",
@@ -1080,7 +1617,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["music creation", "songwriting", "audio production"]
+      "best_for": [
+        "music creation",
+        "songwriting",
+        "audio production"
+      ]
     },
     {
       "name": "Wondera",
@@ -1088,7 +1629,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["music creation", "remixing", "voice cloning"]
+      "best_for": [
+        "music creation",
+        "remixing",
+        "voice cloning"
+      ]
     }
   ],
   "voice generator": [
@@ -1098,7 +1643,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["voiceovers", "audiobooks", "podcasts"]
+      "best_for": [
+        "voiceovers",
+        "audiobooks",
+        "podcasts"
+      ]
     }
   ],
   "video generator": [
@@ -1108,7 +1657,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["video editing", "content repurposing", "social media marketing"]
+      "best_for": [
+        "video editing",
+        "content repurposing",
+        "social media marketing"
+      ]
     }
   ],
   "writing helper": [
@@ -1118,7 +1671,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["academic writing", "research papers", "essays"]
+      "best_for": [
+        "academic writing",
+        "research papers",
+        "essays"
+      ]
     },
     {
       "name": "Command Code",
@@ -1126,7 +1683,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": true,
-      "best_for": ["coding", "software development", "code refactoring"]
+      "best_for": [
+        "coding",
+        "software development",
+        "code refactoring"
+      ]
     },
     {
       "name": "Prompt Optimizer",
@@ -1134,7 +1695,11 @@
       "pricing": "freemium",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["prompt engineering", "writing", "research"]
+      "best_for": [
+        "prompt engineering",
+        "writing",
+        "research"
+      ]
     }
   ],
   "research assistant": [
@@ -1144,7 +1709,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["research", "web search", "academic analysis"]
+      "best_for": [
+        "research",
+        "web search",
+        "academic analysis"
+      ]
     },
     {
       "name": "NotebookLM",
@@ -1152,7 +1721,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["research", "summarization", "study aids"]
+      "best_for": [
+        "research",
+        "summarization",
+        "study aids"
+      ]
     },
     {
       "name": "DeepWiki",
@@ -1160,7 +1733,11 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["codebase understanding", "research", "documentation"]
+      "best_for": [
+        "codebase understanding",
+        "research",
+        "documentation"
+      ]
     },
     {
       "name": "Ask Red Hat",
@@ -1168,7 +1745,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["troubleshooting", "research", "documentation"]
+      "best_for": [
+        "troubleshooting",
+        "research",
+        "documentation"
+      ]
     },
     {
       "name": "MathGPT Pro",
@@ -1176,7 +1757,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["math problem solving", "homework help", "tutoring"]
+      "best_for": [
+        "math problem solving",
+        "homework help",
+        "tutoring"
+      ]
     },
     {
       "name": "Blackbox CLI",
@@ -1184,7 +1769,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["coding", "debugging", "research"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "research"
+      ]
     },
     {
       "name": "Sakana Fugu",
@@ -1192,7 +1781,11 @@
       "pricing": "paid",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["coding", "research", "cybersecurity"]
+      "best_for": [
+        "coding",
+        "research",
+        "cybersecurity"
+      ]
     }
   ],
   "translator": [
@@ -1202,7 +1795,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["translation", "language learning", "professional communication"]
+      "best_for": [
+        "translation",
+        "language learning",
+        "professional communication"
+      ]
     },
     {
       "name": "DeepL Translator",
@@ -1210,7 +1807,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["translation", "document translation", "professional writing"]
+      "best_for": [
+        "translation",
+        "document translation",
+        "professional writing"
+      ]
     },
     {
       "name": "Maestra Live Translate",
@@ -1218,7 +1819,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["live translation", "captioning", "interpretation"]
+      "best_for": [
+        "live translation",
+        "captioning",
+        "interpretation"
+      ]
     }
   ],
   "presentation maker": [
@@ -1228,7 +1833,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["technical diagrams", "system architecture", "documentation"]
+      "best_for": [
+        "technical diagrams",
+        "system architecture",
+        "documentation"
+      ]
     },
     {
       "name": "WebSim AI",
@@ -1236,7 +1845,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["website prototyping", "interactive games", "web simulations"]
+      "best_for": [
+        "website prototyping",
+        "interactive games",
+        "web simulations"
+      ]
     },
     {
       "name": "Gamma",
@@ -1244,7 +1857,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["presentation maker", "website builder", "document creation"]
+      "best_for": [
+        "presentation maker",
+        "website builder",
+        "document creation"
+      ]
     }
   ],
   "image generator": [
@@ -1254,7 +1871,23 @@
       "pricing": "free",
       "privacy": "friendly",
       "login_required": false,
-      "best_for": ["image generation", "photo editing", "fun memes"]
+      "best_for": [
+        "image generation",
+        "photo editing",
+        "fun memes"
+      ]
+    },
+    {
+      "name": "GPT Image 2",
+      "website": "https://gptimage2.asia/",
+      "pricing": "freemium",
+      "privacy": "neutral",
+      "login_required": true,
+      "best_for": [
+        "image generation",
+        "photo editing",
+        "marketing visuals"
+      ]
     },
     {
       "name": "Nano Banana 2",
@@ -1262,7 +1895,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["image generation", "advertising", "storyboarding"]
+      "best_for": [
+        "image generation",
+        "advertising",
+        "storyboarding"
+      ]
     }
   ],
   "many in one": [
@@ -1272,7 +1909,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["writing", "image generation", "music generation"]
+      "best_for": [
+        "writing",
+        "image generation",
+        "music generation"
+      ]
     },
     {
       "name": "Newly",
@@ -1280,7 +1921,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["app development", "prototyping", "mobile app creation"]
+      "best_for": [
+        "app development",
+        "prototyping",
+        "mobile app creation"
+      ]
     },
     {
       "name": "Google Labs",
@@ -1288,7 +1933,11 @@
       "pricing": "freemium",
       "privacy": "avoid",
       "login_required": true,
-      "best_for": ["experimentation", "research", "creative projects"]
+      "best_for": [
+        "experimentation",
+        "research",
+        "creative projects"
+      ]
     },
     {
       "name": "Freebuff",
@@ -1296,7 +1945,11 @@
       "pricing": "free",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["coding", "debugging", "app development"]
+      "best_for": [
+        "coding",
+        "debugging",
+        "app development"
+      ]
     }
   ]
 }
