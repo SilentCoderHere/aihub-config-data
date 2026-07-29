@@ -878,7 +878,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["catholic research", "theological questions", "faith education"]
+      "best_for": [
+        "catholic research",
+        "theological questions",
+        "faith education"
+      ]
     },
     {
       "name": "Deepshi",
@@ -1063,6 +1067,14 @@
       "privacy": "neutral",
       "login_required": false,
       "best_for": ["conversation", "roleplay", "creative writing"]
+    },
+    {
+      "name": "Amazônia IA",
+      "website": "https://amazoniaia.com.br",
+      "pricing": "freemium",
+      "privacy": "friendly",
+      "login_required": true,
+      "best_for": ["conversation", "research", "writing"]
     }
   ],
   "music generator": [
@@ -1108,7 +1120,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["video editing", "content repurposing", "social media marketing"]
+      "best_for": [
+        "video editing",
+        "content repurposing",
+        "social media marketing"
+      ]
     }
   ],
   "writing helper": [
@@ -1202,7 +1218,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["translation", "language learning", "professional communication"]
+      "best_for": [
+        "translation",
+        "language learning",
+        "professional communication"
+      ]
     },
     {
       "name": "DeepL Translator",
@@ -1210,7 +1230,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": false,
-      "best_for": ["translation", "document translation", "professional writing"]
+      "best_for": [
+        "translation",
+        "document translation",
+        "professional writing"
+      ]
     },
     {
       "name": "Maestra Live Translate",
@@ -1236,7 +1260,11 @@
       "pricing": "freemium",
       "privacy": "neutral",
       "login_required": true,
-      "best_for": ["website prototyping", "interactive games", "web simulations"]
+      "best_for": [
+        "website prototyping",
+        "interactive games",
+        "web simulations"
+      ]
     },
     {
       "name": "Gamma",
