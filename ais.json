@@ -228,7 +228,7 @@
       "name": "Together AI",
       "website": "https://chat.together.ai",
       "pricing": "freemium",
-      "privacy": "neutral",
+      "privacy": "avoid",
       "login_required": false,
       "best_for": ["open models", "experimentation", "research"]
     },
