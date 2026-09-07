@@ -269,7 +269,7 @@
       "website": "https://indus.sarvam.ai",
       "pricing": "free",
       "privacy": "neutral",
-      "login_required": false,
+      "login_required": true,
       "best_for": ["Indian languages", "regional AI", "research"]
     },
     {
